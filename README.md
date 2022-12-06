@@ -24,7 +24,7 @@
 ## :wrench: Languages and Tools
 
 <a href="https://www.w3schools.com/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="https://www.java.com/es"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://www.java.com/es"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=oracle&logoColor=white"></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://numpy.org"><img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
