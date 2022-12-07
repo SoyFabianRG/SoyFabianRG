@@ -42,8 +42,10 @@
 <a href="https://reactjs.org"><img src="https://img.shields.io/badge/REACT.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.w3schools.io/file/markdown-introduction"><img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="https://www.microsoft.com/es-mx/microsoft-365/excel"><img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"></a>
 <a href="https://www.wolfram.com/mathematica"><img src="https://img.shields.io/badge/MATHEMATICA-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white"></a>
 <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white"></a>
+<a href="https://www.microsoft.com/es-xl/windows"><img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://www.gnu.org"><img src="https://img.shields.io/badge/GNU/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 
