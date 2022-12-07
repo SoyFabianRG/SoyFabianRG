@@ -11,6 +11,7 @@
 ## :mailbox: Connect with me
 
 <a href="https://www.linkedin.com/in/soyfabianrg"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://codeforces.com/profile/SoyFabianRG"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 
 ## :school_satchel: Certifications
 
@@ -38,8 +39,6 @@
 <a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
 <a href="https://www.rstudio.com"><img src="https://img.shields.io/badge/R Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
-<!-- <a href="https://www.npmjs.com"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href="https://webpack.js.org"><img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"></a> -->
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.w3schools.io/file/markdown-introduction"><img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a href="https://www.microsoft.com/es-mx/microsoft-365/excel"><img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"></a>
@@ -48,6 +47,8 @@
 <a href="https://www.microsoft.com/es-xl/windows"><img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://www.gnu.org"><img src="https://img.shields.io/badge/GNU/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<!-- <a href="https://www.npmjs.com"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+<a href="https://webpack.js.org"><img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"></a> -->
 
 ## :trophy: GitHub Stats
 
