@@ -35,10 +35,10 @@
 <a href="https://numpy.org"><img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <a href="https://www.tidyverse.org"><img src="https://img.shields.io/badge/TIDYVERSE-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white"></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 <a href="https://jupyter.org"><img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 <a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
 <a href="https://www.rstudio.com"><img src="https://img.shields.io/badge/R Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.w3schools.io/file/markdown-introduction"><img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a href="https://www.microsoft.com/es-mx/microsoft-365/excel"><img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"></a>
