@@ -11,7 +11,6 @@
 ## :mailbox: Connect with me
 
 <a href="https://www.linkedin.com/in/soyfabianrg"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://codeforces.com/profile/SoyFabianRG"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 
 ## :school_satchel: Certifications
 
@@ -21,6 +20,9 @@
 <a href="https://platzi.com/p/SoyFabianRG"><img src="https://img.shields.io/badge/PLATZI-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"></a>
 <a href="https://app.aluracursos.com/user/soyfabianrg"><img src="https://img.shields.io/badge/ONE-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
 <a href="https://docs.microsoft.com/es-mx/users/soyfabianrg/"><img src="https://img.shields.io/badge/MICROSOFT LEARN-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+<a href="https://codeforces.com/profile/SoyFabianRG"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+<a href="https://code.dcoder.tech/profile/soyfabianrg"><img src="https://img.shields.io/badge/-DCODER-000000?style=for-the-badge&logo=dcoder&logoColor=white"></a>
+<a href="https://la.mathworks.com/matlabcentral/profile/authors/21447057"><img src="https://img.shields.io/badge/-MATHWORKS-Bf4A06?style=for-the-badge&logo=matlab&logoColor=white"></a>
 
 ## :wrench: Languages and Tools
 
