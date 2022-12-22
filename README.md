@@ -18,11 +18,11 @@
 
 <a href="https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea"><img src="https://img.shields.io/badge/BADGR-282C4C?style=for-the-badge&logo=badgr&logoColor=white"></a>
 <a href="https://www.credly.com/users/soyfabianrg"><img src="https://img.shields.io/badge/CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
-<a href="https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb"><img src="https://img.shields.io/badge/COURSERA-0056D2?style=for-the-badge&logo=coursera&logoColor=white"></a>  
-<a href="https://platzi.com/p/SoyFabianRG"><img src="https://img.shields.io/badge/PLATZI-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"></a>  
-<a href="https://app.aluracursos.com/user/soyfabianrg"><img src="https://img.shields.io/badge/-ALURA LATAM-082B58?style=for-the-badge&logo=&logoColor=white"></a>  
+<a href="https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb"><img src="https://img.shields.io/badge/COURSERA-0056D2?style=for-the-badge&logo=coursera&logoColor=white"></a>
+<a href="https://platzi.com/p/SoyFabianRG"><img src="https://img.shields.io/badge/PLATZI-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"></a>
+<a href="https://app.aluracursos.com/user/soyfabianrg"><img src="https://img.shields.io/badge/-ALURA LATAM-082B58?style=for-the-badge&logo=&logoColor=white"></a>
 <a href="https://docs.microsoft.com/es-mx/users/soyfabianrg/"><img src="https://img.shields.io/badge/MICROSOFT LEARN-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-<a href="https://mexicox.gob.mx/u/SoyFabianRG"><img src="https://img.shields.io/badge/-MÉXICO X-18384E?style=for-the-badge&logo=&logoColor=white"></a>  
+<a href="https://mexicox.gob.mx/u/SoyFabianRG"><img src="https://img.shields.io/badge/-MÉXICO X-18384E?style=for-the-badge&logo=&logoColor=white"></a>
 <a href="https://codeforces.com/profile/SoyFabianRG"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 <a href="https://code.dcoder.tech/profile/soyfabianrg"><img src="https://img.shields.io/badge/-DCODER-000000?style=for-the-badge&logo=&logoColor=white"></a>
 <a href="https://la.mathworks.com/matlabcentral/profile/authors/21447057"><img src="https://img.shields.io/badge/-MATHWORKS-Bf4A06?style=for-the-badge&logo=&logoColor=white"></a>
