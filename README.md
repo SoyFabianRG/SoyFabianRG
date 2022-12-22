@@ -2,9 +2,11 @@
 
 <div align="center">
 
-🧮 Math Student
-<br> 👨‍💻 I'm currently learning Web Development 
-<br> :computer: Interests: Computer Science, Data Science and Cybersecurity
+```py
+class SoyFabianRG:
+ name = "Fabián"
+ occupation = "Math Student"
+```
 
 > “Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength” (Antonio Gramsci).
 
