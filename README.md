@@ -15,6 +15,7 @@ class SoyFabianRG:
 <a href="https://www.linkedin.com/in/soyfabianrg"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://unam.academia.edu/SoyFabianRG"><img src="https://img.shields.io/badge/-ACADEMIA.EDU-41454A?style=for-the-badge&logo=academia&logoColor=white"></a>
 <a href="https://www.researchgate.net/profile/Fabian-Rios-Gil-2"><img src="https://img.shields.io/badge/-RESEARCHGATE-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
+<a href="https://www.geogebra.org/u/soyfabianrg"><img src="https://img.shields.io/badge/-GEOGEBRA-6557d2"></a>
 
 ## :school_satchel: Certifications
 
@@ -25,6 +26,7 @@ class SoyFabianRG:
 <a href="https://app.aluracursos.com/user/soyfabianrg"><img src="https://img.shields.io/badge/-ALURA LATAM-082B58?style=for-the-badge&logo=&logoColor=white"></a>
 <a href="https://docs.microsoft.com/es-mx/users/soyfabianrg/"><img src="https://img.shields.io/badge/MICROSOFT LEARN-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"></a>
 <a href="https://mexicox.gob.mx/u/SoyFabianRG"><img src="https://img.shields.io/badge/-MÉXICO X-18384E?style=for-the-badge&logo=&logoColor=white"></a>
+<a href="https://www.duolingo.com/profile/SoyFabianRG"><img src="https://img.shields.io/badge/-DUOLINGO-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"></a>
 <a href="https://codeforces.com/profile/SoyFabianRG"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 <a href="https://code.dcoder.tech/profile/soyfabianrg"><img src="https://img.shields.io/badge/-DCODER-000000?style=for-the-badge&logo=&logoColor=white"></a>
 <a href="https://la.mathworks.com/matlabcentral/profile/authors/21447057"><img src="https://img.shields.io/badge/-MATHWORKS-Bf4A06?style=for-the-badge&logo=&logoColor=white"></a>
