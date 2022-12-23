@@ -1,12 +1,11 @@
 <h1 align="center"> Hello World! <img alt = gif src ="hand.gif" width= "30"> I'm Fabian  </h1>
 
-<div align="center">
-
 ```py
 class SoyFabianRG:
  name = "Fabián"
  occupation = "Math Student"
 ```
+<div align="center">
 
 > “Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength” (Antonio Gramsci).
 
