@@ -2,7 +2,7 @@
 
 ```py
 class SoyFabianRG:
-	name = "Fabián"
+  name = "Fabián"
  	occupation = "Math Student"
 ```
 
