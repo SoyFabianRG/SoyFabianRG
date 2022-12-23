@@ -15,7 +15,7 @@ class SoyFabianRG:
 <a href="https://www.linkedin.com/in/soyfabianrg"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://unam.academia.edu/SoyFabianRG"><img src="https://img.shields.io/badge/-ACADEMIA.EDU-41454A?style=for-the-badge&logo=academia&logoColor=white"></a>
 <a href="https://www.researchgate.net/profile/Fabian-Rios-Gil-2"><img src="https://img.shields.io/badge/-RESEARCHGATE-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-<a href="https://www.geogebra.org/u/soyfabianrg"><img src="https://img.shields.io/badge/-GEOGEBRA-6557d2"></a>
+<a href="https://www.geogebra.org/u/soyfabianrg"><img src="https://img.shields.io/badge/-GEOGEBRA-6557d2?style=for-the-badge"></a>
 
 ## :school_satchel: Certifications
 
