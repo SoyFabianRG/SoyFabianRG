@@ -3,12 +3,12 @@
 ```py
 class SoyFabianRG:
   name = "Fabián"
- 	occupation = "Math Student"
+  occupation = "Math Student"
 ```
 
-<div align="center">
-
 > “Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength” (Antonio Gramsci).
+
+<div align="center">
 
 ## :mailbox: Connect with me
 
