@@ -10,7 +10,7 @@ class SoyFabianRG:
 
 <div align="center">
 
-## :inbox_tray: Connect with me
+## :mailbox_with_mail: Connect with me
 
 <a href="https://www.linkedin.com/in/soyfabianrg"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://unam.academia.edu/SoyFabianRG"><img src="https://img.shields.io/badge/-ACADEMIA.EDU-41454A?style=for-the-badge&logo=academia&logoColor=white"></a>
