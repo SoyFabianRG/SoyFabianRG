@@ -1,9 +1,15 @@
 <h1 align="center"> Hello World! <img alt = gif src ="./hand.gif" width= "30"> I'm Fabian </h1>
 
-```py
-class SoyFabianRG:
-  name = "Fabián"
-  occupation = "Math Student"
+```java
+class person
+{
+  String name;
+  String occupation;
+ }
+ 
+ person SoyFabianRG = new person();
+ SoyFabianRG.name = "Fabián"
+ SoyFabianRG.occupation = "Math Student"
 ```
 
 > “Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength” (Antonio Gramsci).
