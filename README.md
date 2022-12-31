@@ -1,16 +1,6 @@
 <h1 align="center"> Hello World! <img alt = gif src ="./hand.gif" width= "30"> I'm Fabian </h1>
 
-```java
-class developer
-{
-  String name;
-  String occupation;
- }
- 
- developer SoyFabianRG = new developer();
- SoyFabianRG.name = "Fabián";
- SoyFabianRG.occupation = "Math Student";
-```
+I'm studying a bachelor's degree in Mathematics at the National Autonomous University of Mexico (UNAM). When I was in High School, I write my first `Hello World!` in C. Now, I'm a Data Science enthusiastic.
 
 > “Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength” (Antonio Gramsci).
 
