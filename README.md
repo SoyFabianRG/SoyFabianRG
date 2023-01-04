@@ -8,53 +8,56 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 
 ## :mailbox_with_mail: Connect with me
 
-<a href="https://www.linkedin.com/in/soyfabianrg"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://unam.academia.edu/SoyFabianRG"><img src="https://img.shields.io/badge/-ACADEMIA.EDU-41454A?style=for-the-badge&logo=academia&logoColor=white"></a>
-<a href="https://www.researchgate.net/profile/Fabian-Rios-Gil-2"><img src="https://img.shields.io/badge/-RESEARCHGATE-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
-<a href="https://www.geogebra.org/u/soyfabianrg"><img src="https://img.shields.io/badge/-GEOGEBRA-6557d2?style=for-the-badge"></a>
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://unam.academia.edu/SoyFabianRG)
+[![Researchgate](https://img.shields.io/badge/Researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fabian-Rios-Gil-2)
+[![Geogebra](https://img.shields.io/badge/Geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org/u/soyfabianrg)
 
 ## :school_satchel: Certifications
-
-<a href="https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea"><img src="https://img.shields.io/badge/BADGR-282C4C?style=for-the-badge&logo=badgr&logoColor=white"></a>
-<a href="https://www.credly.com/users/soyfabianrg"><img src="https://img.shields.io/badge/CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
-<a href="https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb"><img src="https://img.shields.io/badge/COURSERA-0056D2?style=for-the-badge&logo=coursera&logoColor=white"></a>
-<a href="https://platzi.com/p/SoyFabianRG"><img src="https://img.shields.io/badge/PLATZI-98CA3F?style=for-the-badge&logo=platzi&logoColor=white"></a>
-<a href="https://app.aluracursos.com/user/soyfabianrg"><img src="https://img.shields.io/badge/-ALURA LATAM-082B58?style=for-the-badge"></a>
-<a href="https://docs.microsoft.com/es-mx/users/soyfabianrg/"><img src="https://img.shields.io/badge/MICROSOFT LEARN-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-<a href="https://mexicox.gob.mx/u/SoyFabianRG"><img src="https://img.shields.io/badge/-MÉXICO X-18384E?style=for-the-badge"></a>
-<a href="https://www.duolingo.com/profile/SoyFabianRG"><img src="https://img.shields.io/badge/-DUOLINGO-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"></a>
-<a href="https://codeforces.com/profile/SoyFabianRG"><img src="https://img.shields.io/badge/-CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-<a href="https://code.dcoder.tech/profile/soyfabianrg"><img src="https://img.shields.io/badge/-DCODER-000000?style=for-the-badge"></a>
-<a href="https://la.mathworks.com/matlabcentral/profile/authors/21447057"><img src="https://img.shields.io/badge/-MATHWORKS-Bf4A06?style=for-the-badge"></a>
  
+[![Badgr](https://img.shields.io/badge/Badgr-282C4C?style=for-the-badge&logo=badgr&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb)
+[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/SoyFabianRG)
+[![Alura Latam](https://img.shields.io/badge/Alura_Latam-082B58?style=for-the-badge)](https://app.aluracursos.com/user/soyfabianrg)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
+[![México X](https://img.shields.io/badge/México_X-18384E?style=for-the-badge)](https://mexicox.gob.mx/u/SoyFabianRG)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SoyFabianRG)
+[![Dcoder](https://img.shields.io/badge/Dcoder-000000?style=for-the-badge)](https://code.dcoder.tech/profile/soyfabianrg)
+[![MathWorks](https://img.shields.io/badge/MathWorks-Bf4A06?style=for-the-badge)](https://la.mathworks.com/matlabcentral/profile/authors/21447057)
+
 ## :wrench: Languages and Tools
 
-<a href="https://www.w3schools.com/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="https://www.java.com/es"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=oracle&logoColor=white"></a>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://www.r-project.org"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
-<a href="https://developer.mozilla.org/en-US/docs/web/javascript"><img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-<a href="https://www.w3.org/html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://www.w3.org/Style/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://reactjs.org"><img src="https://img.shields.io/badge/REACT.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="https://numpy.org"><img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
-<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
-<a href="https://www.tidyverse.org"><img src="https://img.shields.io/badge/TIDYVERSE-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white"></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
-<a href="https://jupyter.org"><img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-<a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/GOOGLE COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a>
-<a href="https://www.rstudio.com"><img src="https://img.shields.io/badge/R Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"></a>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://www.w3schools.io/file/markdown-introduction"><img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
-<a href="https://www.microsoft.com/es-mx/microsoft-365/excel"><img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"></a>
-<a href="https://www.wolfram.com/mathematica"><img src="https://img.shields.io/badge/MATHEMATICA-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white"></a>
-<a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-Bf4A06?style=for-the-badge"></a>
-<a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white"></a>
-<a href="https://www.microsoft.com/es-xl/windows"><img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="https://www.gnu.org"><img src="https://img.shields.io/badge/GNU/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a href="https://ubuntu.com"><img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-<!-- <a href="https://www.npmjs.com"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href="https://webpack.js.org"><img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"></a> -->
+[![Lenguaje C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)](https://www.java.com/es)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/web/javascript)
+[![HTML](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
+[![CSS](https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
+[![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)](https://www.tidyverse.org)
+[![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)](https://www.wolfram.com/mathematica)
+[![Matlab](https://img.shields.io/badge/Matlab-Bf4A06?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
+[![LaTeX](https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.w3schools.io/file/markdown-introduction)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+[![R Studio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://www.rstudio.com)
+[![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/es-mx/microsoft-365/excel")
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-xl/windows)
+[![GNU/Linux](https://img.shields.io/badge/GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+
+<!-- [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
+[![Webpack](https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org) -->
 
 ## :trophy: GitHub Stats
 
