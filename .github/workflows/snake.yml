@@ -22,7 +22,6 @@ jobs:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
-        palette: github-light
         with:
           github_user_name: SoyFabianRG
           outputs: |
@@ -35,5 +34,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          palette: github-light
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
