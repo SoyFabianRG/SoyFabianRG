@@ -1,4 +1,6 @@
-<h1 align="center"> Hello World! <img alt = gif src ="./hand.gif" width= "30"> I'm Fabian </h1>
+<h1 align = "center">
+<img alt = Typing_Effect src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello World!+I'm+Fabian">
+</h1>
 
 I'm studying a bachelor's degree in Mathematics at the National Autonomous University of Mexico (UNAM). When I was in High School, I write my first `Hello World!` in C. Now, I'm a Data Science enthusiastic.
 
@@ -62,8 +64,10 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 
 ## :trophy: GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=SoyFabianRG&show_icons=true&theme=github_dark)](https://github.com/SoyFabianRG)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark)](https://github.com/SoyFabianRG)
+<a href="https://github.com/SoyFabianRG">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoyFabianRG&show_icons=true&theme=github_dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark">
+
 [![Snake](https://github.com/SoyFabianRG/SoyFabianRG/raw/output/github-contribution-grid-snake.svg)](https://github.com/SoyFabianRG)
 
 </div>
