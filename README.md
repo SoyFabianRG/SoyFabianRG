@@ -1,6 +1,8 @@
-<h1 align = "center">
+<!-- <h1 align = "center">
 <img alt = Typing_Effect src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabian">
-</h1>
+</h1> -->
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabian)](https://github.com/SoyFabianRG)
 
 I'm studying a bachelor's degree in Mathematics at the National Autonomous University of Mexico (UNAM). When I was in High School, I write my first `Hello World!` in C. Now, I'm a Data Science enthusiastic.
 
