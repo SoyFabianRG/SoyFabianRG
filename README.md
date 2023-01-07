@@ -65,8 +65,8 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 <div>
 
 <a href="https://github.com/SoyFabianRG">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoyFabianRG&show_icons=true&theme=dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoyFabianRG&show_icons=true&theme=github_dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark">
 
 </div>
 
