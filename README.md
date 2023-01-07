@@ -1,14 +1,12 @@
-<!-- <h1 align = "center">
-<img alt = Typing_Effect src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabian">
-</h1> -->
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabian)](https://github.com/SoyFabianRG)
+<h1 align = "center">
+<img alt = Typing_Effect src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabian">
+</h1>
 
 I'm studying a bachelor's degree in Mathematics at the National Autonomous University of Mexico (UNAM). When I was in High School, I write my first `Hello World!` in C. Now, I'm a Data Science enthusiastic.
 
 > “Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength” (Antonio Gramsci).
 
-<div align="center">
+<div align = "center">
 
 ## :mailbox_with_mail: Connect with me
 
@@ -66,9 +64,9 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 
 ## :trophy: GitHub Stats
 
-<a href="https://github.com/SoyFabianRG">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SoyFabianRG&show_icons=true&theme=github_dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark">
+<a href = "https://github.com/SoyFabianRG">
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=SoyFabianRG&show_icons=true&theme=github_dark">
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark">
 
 [![Snake](https://github.com/SoyFabianRG/SoyFabianRG/raw/output/github-contribution-grid-snake.svg)](https://github.com/SoyFabianRG)
 
