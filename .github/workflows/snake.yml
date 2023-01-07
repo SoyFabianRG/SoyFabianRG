@@ -34,7 +34,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          palette: github-light
-          color_snake: yellow
+          palette: "github-light"
+          color_snake: "yellow"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
