@@ -70,6 +70,7 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 
 </div>
 
-![snake gif](https://github.com/SoyFabianRG/SoyFabianRG/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/SoyFabianRG/SoyFabianRG/raw/output/github-contribution-grid-snake.svg)
+<!-- (https://github.com/SoyFabianRG/SoyFabianRG/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
