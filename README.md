@@ -68,8 +68,8 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 ## :trophy: GitHub Stats
 
 <a href = "https://github.com/SoyFabianRG">
-<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=SoyFabianRG&theme=github_dark&show_icons=true&hide=stars">
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark">
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=SoyFabianRG&theme=github_dark&show_icons=true">
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark&layout=compact">
 
 [![Snake](https://github.com/SoyFabianRG/SoyFabianRG/raw/output/github-contribution-grid-snake.svg)](https://github.com/SoyFabianRG)
 
