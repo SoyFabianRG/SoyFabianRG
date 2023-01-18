@@ -14,7 +14,8 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://unam.academia.edu/SoyFabianRG)
 [![Researchgate](https://img.shields.io/badge/Researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fabian-Rios-Gil-2)
-[![Geogebra](https://img.shields.io/badge/Geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org/u/soyfabianrg)
+[![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SoyFabianRG)
+[![GeoGebra](https://img.shields.io/badge/Geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org/u/soyfabianrg)
 
 ## :school_satchel: Certifications
  
@@ -45,6 +46,7 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 [![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)](https://www.tidyverse.org)
 [![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)](https://www.wolfram.com/mathematica)
 [![Matlab](https://img.shields.io/badge/Matlab-Bf4A06?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
+[![GeoGebra](https://img.shields.io/badge/Geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org/)
 [![LaTeX](https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.w3schools.io/file/markdown-introduction)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
