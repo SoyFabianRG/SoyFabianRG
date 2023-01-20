@@ -12,6 +12,7 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 ## :mailbox_with_mail: Connect with me
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
+[![Emplea ONE](https://img.shields.io/badge/Emplea_ONE-082B58?style=for-the-badge)](https://app.aluracursos.com/emprega-one/profile/soyfabianrg)
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://unam.academia.edu/SoyFabianRG)
 [![Researchgate](https://img.shields.io/badge/Researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fabian-Rios-Gil-2)
 [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SoyFabianRG)
