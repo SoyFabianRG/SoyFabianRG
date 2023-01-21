@@ -70,9 +70,9 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 
 <div align = "center" width = "100%">
     <a href = "https://github.com/SoyFabianRG">
-    <img width = "70%" src = "https://streak-stats.demolab.com/?user=SoyFabianRG&theme=github-dark-blue">
-    <img width = "40%" src = "https://github-readme-stats.vercel.app/api?username=SoyFabianRG&theme=github_dark&show_icons=true&count_private=true">
-    <img width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark&layout=compact&langs_count=10">
+    <img width = "60%" src = "https://streak-stats.demolab.com/?user=SoyFabianRG&theme=github-dark-blue">
+    <img width = "45%" src = "https://github-readme-stats.vercel.app/api?username=SoyFabianRG&theme=github_dark&show_icons=true&count_private=true">
+    <img width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark&layout=compact&langs_count=10">
  </div>
 
 [![Snake](https://github.com/SoyFabianRG/SoyFabianRG/raw/output/github-contribution-grid-snake.svg)](https://github.com/SoyFabianRG)
