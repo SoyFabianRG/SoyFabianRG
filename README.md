@@ -1,6 +1,7 @@
 <h1 align = "center">
-<a href = "https://github.com/SoyFabianRG">
-<img alt = Typing_Effect src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabian">
+    <a href = "https://github.com/SoyFabianRG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabian">
+    </a>
 </h1>
 
 I'm studying a bachelor's degree in Mathematics at the National Autonomous University of Mexico (UNAM). When I was in High School, I write my first `Hello World!` in C. Now, I'm a Data Science enthusiastic.
@@ -68,11 +69,12 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 
 ## :trophy: GitHub Stats
 
-<div align = "center" width = "100%">
+<div width = "100%">
     <a href = "https://github.com/SoyFabianRG">
-    <img width = "60%" src = "https://streak-stats.demolab.com/?user=SoyFabianRG&theme=github-dark-blue">
-    <img width = "45%" src = "https://github-readme-stats.vercel.app/api?username=SoyFabianRG&theme=github_dark&show_icons=true&count_private=true">
-    <img width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark&layout=compact&langs_count=10">
+        <img width = "60%" src = "https://streak-stats.demolab.com/?user=SoyFabianRG&theme=github-dark-blue">
+        <img width = "45%" src = "https://github-readme-stats.vercel.app/api?username=SoyFabianRG&theme=github_dark&show_icons=true&count_private=true">
+        <img width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark&layout=compact&langs_count=10">
+    </a>
  </div>
 
 [![Snake](https://github.com/SoyFabianRG/SoyFabianRG/raw/output/github-contribution-grid-snake.svg)](https://github.com/SoyFabianRG)
