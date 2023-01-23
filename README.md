@@ -69,13 +69,13 @@ I'm studying a bachelor's degree in Mathematics at the National Autonomous Unive
 
 ## :trophy: GitHub Stats
 
-<div>
+<div width = "100%">
     <a href = "https://github.com/SoyFabianRG">
         <img height = "180em" src = "https://streak-stats.demolab.com/?user=SoyFabianRG&theme=github-dark-blue">
     </a>
  </div>
  
-<div>
+<div width = "100%">
     <a href = "https://github.com/SoyFabianRG">
         <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=SoyFabianRG&theme=github_dark&show_icons=true">
         <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark&layout=compact&langs_count=10">
