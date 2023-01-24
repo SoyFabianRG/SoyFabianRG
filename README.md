@@ -4,7 +4,7 @@
     </a>
 </h1>
 
-I'm studying a Bachelor of Science degree in Mathematics at the National Autonomous University of Mexico (UNAM). When I was in High School, I write my first `Hello World!` in C. Now, I'm a Data Science enthusiastic.
+I'm studying a Bachelor of Science degree in Mathematics at the National Autonomous University of Mexico (UNAM) and I'm a Computer Science enthusiastic. When I was in High School, I write my first `Hello World!` in C. Now, I have knowledge in Front End development and general programming.
 
 > “Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength” (Antonio Gramsci).
 
