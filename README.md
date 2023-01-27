@@ -28,6 +28,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/SoyFabianRG)
 [![Alura Latam](https://img.shields.io/badge/Alura_Latam-082B58?style=for-the-badge)](https://app.aluracursos.com/user/soyfabianrg)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
+[![Cognitive Class](https://img.shields.io/badge/Cognitive_Class-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://courses.cognitiveclass.ai/u/SoyFabianRG)
 [![México X](https://img.shields.io/badge/México_X-18384E?style=for-the-badge)](https://mexicox.gob.mx/u/SoyFabianRG)
 [![MathWorks](https://img.shields.io/badge/MathWorks-Bf4A06?style=for-the-badge)](https://la.mathworks.com/matlabcentral/profile/authors/21447057)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
