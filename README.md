@@ -83,7 +83,10 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
         <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark&layout=compact&langs_count=10">
     </a>
  </div>    
-    
-[![Snake](https://github.com/SoyFabianRG/SoyFabianRG/raw/output/github-contribution-grid-snake.svg)](https://github.com/SoyFabianRG)
+
+<picture>
+    <source media = "(prefers-color-scheme: dark)" srcset = "https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
