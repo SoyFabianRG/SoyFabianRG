@@ -8,9 +8,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 
 > “Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength” (Antonio Gramsci).
 
-<div align = "center">
-
-## :mailbox_with_mail: Connect with me
+<h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
@@ -20,7 +18,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SoyFabianRG)
 [![GeoGebra](https://img.shields.io/badge/Geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org/u/soyfabianrg)
 
-## :school_satchel: Certifications
+<h2 align = "center"> :school_satchel: Certifications </h2>
  
 [![Badgr](https://img.shields.io/badge/Badgr-282C4C?style=for-the-badge&logo=badgr&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
@@ -35,7 +33,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SoyFabianRG)
 [![Dcoder](https://img.shields.io/badge/Dcoder-000000?style=for-the-badge)](https://code.dcoder.tech/profile/soyfabianrg)
 
-## :wrench: Languages and Tools
+<h2 align = "center"> :wrench: Languages and Tools </h2>
 
 [![Lenguaje C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)](https://www.java.com/es)
@@ -65,11 +63,12 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/es-xl/windows)
 [![GNU/Linux](https://img.shields.io/badge/GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-
 <!-- [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
 [![Webpack](https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org) -->
 
-## :trophy: GitHub Stats
+<h2 align = "center"> :trophy: GitHub Stats </h2>
+
+<div align = "center">
 
 <div width = "100%">
     <a href = "https://github.com/SoyFabianRG">
