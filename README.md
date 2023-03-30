@@ -15,8 +15,8 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![Emplea ONE](https://img.shields.io/badge/Emplea_ONE-082B58?style=for-the-badge)](https://app.aluracursos.com/emprega-one/profile/soyfabianrg)
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://unam.academia.edu/SoyFabianRG)
 [![Researchgate](https://img.shields.io/badge/Researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fabian-Rios-Gil-2)
-<!-- [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SoyFabianRG) -->
 [![GeoGebra](https://img.shields.io/badge/Geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org/u/soyfabianrg)
+<!-- [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SoyFabianRG) -->
 
 <h2 align = "center"> :school_satchel: Certifications </h2>
  
@@ -29,9 +29,8 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SoyFabianRG)
 [![Dcoder](https://img.shields.io/badge/Dcoder-000000?style=for-the-badge)](https://code.dcoder.tech/profile/soyfabianrg)
-
-[![W3Schools](https://img.shields.io/badge/W3Schools-04a96d?style=for-the-badge)](https://www.w3profile.com/SoyFabianRG)
-[![Khan Academy](https://img.shields.io/badge/KhanAcademy-14BF96?style=for-the-badge)](http://www.khanacademy.org/profile/SoyFabianRG)
+<!-- [![W3Schools](https://img.shields.io/badge/W3Schools-04a96d?style=for-the-badge)](https://www.w3profile.com/SoyFabianRG) -->
+<!-- [![Khan Academy](https://img.shields.io/badge/KhanAcademy-14BF96?style=for-the-badge)](http://www.khanacademy.org/profile/SoyFabianRG) -->
 <!-- [![Cognitive Class](https://img.shields.io/badge/Cognitive_Class-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://courses.cognitiveclass.ai/u/SoyFabianRG) -->
 <!-- [![México X](https://img.shields.io/badge/México_X-18384E?style=for-the-badge)](https://mexicox.gob.mx/u/SoyFabianRG) -->
 <!-- [![MathWorks](https://img.shields.io/badge/MathWorks-Bf4A06?style=for-the-badge)](https://la.mathworks.com/matlabcentral/profile/authors/21447057) -->
