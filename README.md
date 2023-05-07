@@ -66,7 +66,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![GNU/Linux](https://img.shields.io/badge/GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.oracle.com/cloud)
+[![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud)
 <!-- [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
 [![Webpack](https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org) -->
 
