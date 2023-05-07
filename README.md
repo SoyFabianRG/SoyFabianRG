@@ -10,31 +10,31 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
-[![Emplea ONE](https://img.shields.io/badge/Emplea_ONE-082B58?style=for-the-badge)](https://app.aluracursos.com/emprega-one/profile/soyfabianrg)
-[![Academia.edu](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://unam.academia.edu/SoyFabianRG)
-[![Researchgate](https://img.shields.io/badge/Researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fabian-Rios-Gil-2)
+[![Portafolio](https://img.shields.io/badge/portafolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
+[![Emplea ONE](https://img.shields.io/badge/emplea_one-082B58?style=for-the-badge)](https://app.aluracursos.com/emprega-one/profile/soyfabianrg)
+[![Academia.edu](https://img.shields.io/badge/academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://unam.academia.edu/SoyFabianRG)
+[![Researchgate](https://img.shields.io/badge/researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fabian-Rios-Gil-2)
 [![GeoGebra](https://img.shields.io/badge/Geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org/u/soyfabianrg)
 <!-- [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SoyFabianRG) -->
 
 <h2 align = "center"> :school_satchel: Certifications </h2>
  
-[![Badgr](https://img.shields.io/badge/Badgr-282C4C?style=for-the-badge&logo=badgr&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb)
-[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/SoyFabianRG)
-[![Alura Latam](https://img.shields.io/badge/Alura_Latam-082B58?style=for-the-badge)](https://app.aluracursos.com/user/soyfabianrg)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SoyFabianRG)
-[![Dcoder](https://img.shields.io/badge/Dcoder-000000?style=for-the-badge)](https://code.dcoder.tech/profile/soyfabianrg)
-<!-- [![Hyperskill](https://img.shields.io/badge/Hyperskill-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/254456992) -->
-<!-- [![W3Schools](https://img.shields.io/badge/W3Schools-04a96d?style=for-the-badge)](https://www.w3profile.com/SoyFabianRG) -->
-<!-- [![Khan Academy](https://img.shields.io/badge/KhanAcademy-14BF96?style=for-the-badge)](http://www.khanacademy.org/profile/SoyFabianRG) -->
-<!-- [![Cognitive Class](https://img.shields.io/badge/Cognitive_Class-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://courses.cognitiveclass.ai/u/SoyFabianRG) -->
-<!-- [![México X](https://img.shields.io/badge/México_X-18384E?style=for-the-badge)](https://mexicox.gob.mx/u/SoyFabianRG) -->
-<!-- [![MathWorks](https://img.shields.io/badge/MathWorks-Bf4A06?style=for-the-badge)](https://la.mathworks.com/matlabcentral/profile/authors/21447057) -->
+[![Badgr](https://img.shields.io/badge/badgr-282C4C?style=for-the-badge&logo=badgr&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
+[![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
+[![Coursera](https://img.shields.io/badge/coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb)
+[![Platzi](https://img.shields.io/badge/platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/SoyFabianRG)
+[![Alura Latam](https://img.shields.io/badge/alura_latam-082B58?style=for-the-badge)](https://app.aluracursos.com/user/soyfabianrg)
+[![Microsoft Learn](https://img.shields.io/badge/microsoft_learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
+[![Duolingo](https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
+[![Codeforces](https://img.shields.io/badge/codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SoyFabianRG)
+[![Dcoder](https://img.shields.io/badge/dcoder-000000?style=for-the-badge)](https://code.dcoder.tech/profile/soyfabianrg)
+<!-- [![Hyperskill](https://img.shields.io/badge/hyperskill-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/254456992) -->
+<!-- [![W3Schools](https://img.shields.io/badge/w3schools-04a96d?style=for-the-badge)](https://www.w3profile.com/SoyFabianRG) -->
+<!-- [![Khan Academy](https://img.shields.io/badge/khan_academy-14BF96?style=for-the-badge)](http://www.khanacademy.org/profile/SoyFabianRG) -->
+<!-- [![Cognitive Class](https://img.shields.io/badge/cognitive_class-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://courses.cognitiveclass.ai/u/SoyFabianRG) -->
+<!-- [![México X](https://img.shields.io/badge/méxico_x-18384E?style=for-the-badge)](https://mexicox.gob.mx/u/SoyFabianRG) -->
+<!-- [![MathWorks](https://img.shields.io/badge/mathworks-Bf4A06?style=for-the-badge)](https://la.mathworks.com/matlabcentral/profile/authors/21447057) -->
 
 <h2 align = "center"> :wrench: Languages and Tools </h2>
 
@@ -62,7 +62,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/gitgub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![GNU/Linux](https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
