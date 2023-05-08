@@ -10,7 +10,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
-[![Portafolio](https://img.shields.io/badge/portafolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
+[![Portfolio](https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
 [![Emplea ONE](https://img.shields.io/badge/emplea_one-082B58?style=for-the-badge)](https://app.aluracursos.com/emprega-one/profile/soyfabianrg)
 [![Academia.edu](https://img.shields.io/badge/academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://unam.academia.edu/SoyFabianRG)
