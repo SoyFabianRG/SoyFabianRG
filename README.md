@@ -32,7 +32,8 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 <!-- [![Hyperskill](https://img.shields.io/badge/hyperskill-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/254456992) -->
 <!-- [![W3Schools](https://img.shields.io/badge/w3schools-04a96d?style=for-the-badge)](https://www.w3profile.com/SoyFabianRG) -->
 <!-- [![Khan Academy](https://img.shields.io/badge/khan_academy-14BF96?style=for-the-badge)](http://www.khanacademy.org/profile/SoyFabianRG) -->
-<!-- [![Cognitive Class](https://img.shields.io/badge/cognitive_class-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://courses.cognitiveclass.ai/u/SoyFabianRG) -->
+<!-- [![Cognitive Class](https://img.shields.io/badge/cognitive_class-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://cognitiveclass.ai/profile/SoyFabianRG) -->
+<!-- https://courses.cognitiveclass.ai/u/SoyFabianRG) -->
 <!-- [![México X](https://img.shields.io/badge/méxico_x-18384E?style=for-the-badge)](https://mexicox.gob.mx/u/SoyFabianRG) -->
 <!-- [![MathWorks](https://img.shields.io/badge/mathworks-Bf4A06?style=for-the-badge)](https://la.mathworks.com/matlabcentral/profile/authors/21447057) -->
 
