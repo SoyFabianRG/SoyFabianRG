@@ -4,9 +4,13 @@
     </a>
 </h1>
 
-I'm studying a Bachelor of Science degree in Mathematics at the National Autonomous University of Mexico (UNAM) and I'm a Computer Science enthusiastic. When I was in high school, I write my first `Hello World!` in C. Now, I have knowledge in Front End development and general programming.
+<h2 align = "center"> 👨‍💻 About me </h2>
 
-> “Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength” (Antonio Gramsci).
+- :game_die: I'm studying a Bachelor of Science degree in Mathematics at the National Autonomous University of Mexico (UNAM)
+- :computer: I'm a Computer Science enthusiastic
+- :rocket: When I was in high school, I wrote my first `Hello World!` in C languaje
+- :octocat: I have knowledge in Data Analysis and Front End development
+- :earth_americas: Languages: Spanish, English and French
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
@@ -18,7 +22,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![GeoGebra](https://img.shields.io/badge/Geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org/u/soyfabianrg)
 <!-- [![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@SoyFabianRG) -->
 
-<h2 align = "center"> :school_satchel: Certifications </h2>
+<h2 align = "center"> :trophy: Certifications </h2>
  
 [![Badgr](https://img.shields.io/badge/badgr-282C4C?style=for-the-badge&logo=badgr&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
@@ -37,7 +41,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 <!-- [![México X](https://img.shields.io/badge/méxico_x-18384E?style=for-the-badge)](https://mexicox.gob.mx/u/SoyFabianRG) -->
 <!-- [![MathWorks](https://img.shields.io/badge/mathworks-Bf4A06?style=for-the-badge)](https://la.mathworks.com/matlabcentral/profile/authors/21447057) -->
 
-<h2 align = "center"> :wrench: Languages and Tools </h2>
+<h2 align = "center"> 🛠️ Languages and Tools </h2>
 
 [![Lenguaje C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=oracle&logoColor=white)](https://www.java.com/en)
@@ -71,7 +75,7 @@ I'm studying a Bachelor of Science degree in Mathematics at the National Autonom
 [![OCI](https://img.shields.io/badge/oci-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud)
 <!-- [![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org) -->
 
-<h2 align = "center"> :trophy: GitHub Stats </h2>
+<h2 align = "center"> :bar_chart: GitHub Stats </h2>
 
 <div align = "center">
 
