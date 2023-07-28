@@ -31,8 +31,7 @@
 [![Alura Latam](https://img.shields.io/badge/alura_latam-082B58?style=for-the-badge)](https://app.aluracursos.com/user/soyfabianrg)
 [![Microsoft Learn](https://img.shields.io/badge/microsoft_learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
 [![Duolingo](https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
-[![Codeforces](https://img.shields.io/badge/codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SoyFabianRG)
-[![Dcoder](https://img.shields.io/badge/dcoder-000000?style=for-the-badge)](https://code.dcoder.tech/profile/soyfabianrg)
+
 <!-- [![Hyperskill](https://img.shields.io/badge/hyperskill-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/254456992) -->
 <!-- [![W3Schools](https://img.shields.io/badge/w3schools-04a96d?style=for-the-badge)](https://www.w3profile.com/SoyFabianRG) -->
 <!-- [![Khan Academy](https://img.shields.io/badge/khan_academy-14BF96?style=for-the-badge)](http://www.khanacademy.org/profile/SoyFabianRG) -->
@@ -40,6 +39,12 @@
 <!-- https://courses.cognitiveclass.ai/u/SoyFabianRG) -->
 <!-- [![México X](https://img.shields.io/badge/méxico_x-18384E?style=for-the-badge)](https://mexicox.gob.mx/u/SoyFabianRG) -->
 <!-- [![MathWorks](https://img.shields.io/badge/mathworks-Bf4A06?style=for-the-badge)](https://la.mathworks.com/matlabcentral/profile/authors/21447057) -->
+
+<h2 align = "center"> :muscle: Challenges </h2>
+
+[![Codeforces](https://img.shields.io/badge/codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SoyFabianRG)
+[![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge)](https://www.codewars.com/users/SoyFabianRG)
+[![Dcoder](https://img.shields.io/badge/dcoder-000000?style=for-the-badge)](https://code.dcoder.tech/profile/soyfabianrg)
 
 <h2 align = "center"> 🛠️ Languages and Tools </h2>
 
