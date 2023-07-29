@@ -49,10 +49,12 @@
 <h2 align = "center"> 🛠️ Languages and Tools </h2>
 
 [![Lenguaje C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
+[![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=oracle&logoColor=white)](https://www.java.com/en)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 [![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/web/javascript)
+[![Racket](https://img.shields.io/badge/racket-9F1D20?style=for-the-badge&logo=c&logoColor=white)](https://racket-lang.org)
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
 [![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
 [![React](https://img.shields.io/badge/react.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
