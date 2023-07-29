@@ -54,7 +54,7 @@
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 [![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/web/javascript)
-[![Racket](https://img.shields.io/badge/racket-9F1D20?style=for-the-badge&logo=c&logoColor=white)](https://racket-lang.org)
+[![Racket](https://img.shields.io/badge/racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)](https://racket-lang.org)
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
 [![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
 [![React](https://img.shields.io/badge/react.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
