@@ -46,6 +46,10 @@
 [![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/SoyFabianRG)
 [![Dcoder](https://img.shields.io/badge/dcoder-000000?style=for-the-badge)](https://code.dcoder.tech/profile/soyfabianrg)
 
+<h2 align = "center"> :star: Top Projects </h2>
+
+- [Plantillas UNAM](https://github.com/SoyFabianRG/Plantillas-UNAM)
+
 <h2 align = "center"> 🛠️ Languages and Tools </h2>
 
 [![Lenguaje C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
