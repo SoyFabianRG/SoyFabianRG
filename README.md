@@ -46,10 +46,6 @@
 [![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/SoyFabianRG)
 [![Dcoder](https://img.shields.io/badge/dcoder-000000?style=for-the-badge)](https://code.dcoder.tech/profile/soyfabianrg)
 
-<h2 align = "center"> :star: Top Projects </h2>
-
-- [Plantillas UNAM](https://github.com/SoyFabianRG/Plantillas-UNAM)
-
 <h2 align = "center"> 🛠️ Languages and Tools </h2>
 
 [![Lenguaje C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
@@ -85,6 +81,10 @@
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![OCI](https://img.shields.io/badge/oci-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud)
 <!-- [![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org) -->
+
+<h2 align = "center"> :star: Top Projects </h2>
+
+- [Plantillas UNAM](https://github.com/SoyFabianRG/Plantillas-UNAM)
 
 <h2 align = "center"> :bar_chart: GitHub Stats </h2>
 
