@@ -82,9 +82,9 @@
 [![OCI](https://img.shields.io/badge/oci-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud)
 <!-- [![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org) -->
 
-<h2 align = "center"> :star: Top Projects </h2>
+<!-- <h2 align = "center"> :star: Top Projects </h2>
 
-- [Plantillas UNAM](https://github.com/SoyFabianRG/Plantillas-UNAM)
+- [Plantillas UNAM](https://github.com/SoyFabianRG/Plantillas-UNAM) -->
 
 <h2 align = "center"> :bar_chart: GitHub Stats </h2>
 
