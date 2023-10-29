@@ -80,7 +80,7 @@
 [![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![GNU/Linux](https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![GNU/Bash](https://img.shields.io/badge/gnu/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
+[![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
 [![OCI](https://img.shields.io/badge/oci-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud)
 <!-- [![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org) -->
 
