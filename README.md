@@ -91,6 +91,7 @@
 <div align = "center">
     
 [![Plantillas UNAM](https://github-readme-stats.vercel.app/api/pin/?username=SoyFabianRG&repo=Plantillas-UNAM&show_icons=true&theme=github_dark)](https://github.com/SoyFabianRG/Plantillas-UNAM)
+[![ONE](https://github-readme-stats.vercel.app/api/pin/?username=SoyFabianRG&repo=Oracle-Next-Education&show_icons=true&theme=github_dark)](https://github.com/SoyFabianRG/Oracle-Next-Education)
 
 </div>
 
