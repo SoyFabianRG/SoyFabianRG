@@ -56,6 +56,7 @@
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 [![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/web/javascript)
+[![Haskell](https://img.shields.io/badge/haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org)
 [![Racket](https://img.shields.io/badge/racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)](https://racket-lang.org)
 [![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
 [![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
