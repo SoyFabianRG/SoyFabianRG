@@ -30,8 +30,8 @@
 [![Microsoft Learn](https://img.shields.io/badge/microsoft_learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
 [![Platzi](https://img.shields.io/badge/platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/SoyFabianRG)
 [![Alura Latam](https://img.shields.io/badge/alura_latam-082B58?style=for-the-badge)](https://app.aluracursos.com/user/soyfabianrg)
-[![Badgr](https://img.shields.io/badge/badgr-282C4C?style=for-the-badge&logo=badgr&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
+[![Badgr](https://img.shields.io/badge/badgr-282C4C?style=for-the-badge&logo=canvas&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
 [![Duolingo](https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
 
 <!-- [![Hyperskill](https://img.shields.io/badge/hyperskill-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/254456992) -->
