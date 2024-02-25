@@ -1,8 +1,8 @@
-<h1 align = "center">
+<h2 align = "center">
     <a href = "https://github.com/SoyFabianRG">
         <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabián">
     </a>
-</h1>
+</h2>
 
 <h2 align = "center"> 👨‍💻 About me </h2>
 
