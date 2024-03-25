@@ -89,14 +89,15 @@
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
 [![OCI](https://img.shields.io/badge/oci-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud)
-[![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+[![Microsoft 365](https://img.shields.io/badge/microsoft_365-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Google Workspace](https://img.shields.io/badge/google_workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/intl/en/)
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
 [![Google Gemini](https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini)
 [![Microsfot Copilot](https://img.shields.io/badge/microsoft_copilot-F36285?style=for-the-badge&logo=microsoftbing&logoColor=white)](https://www.microsoft.com/en-us/microsoft-copilot)
 [![GitHub Copilot](https://img.shields.io/badge/github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
-
+[![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+<!-- [![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)] -->
 
 <h2 align = "center"> :star: Top Projects </h2>
 
