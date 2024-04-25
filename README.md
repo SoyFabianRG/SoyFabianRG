@@ -6,11 +6,11 @@
 
 <h2 align = "center"> 👨‍💻 About me </h2>
 
-- :game_die: I'm studying a Bachelor of Science degree in Mathematics at the National Autonomous University of Mexico (UNAM)
-- :computer: I'm a Computer Science enthusiastic
-- :rocket: When I was in high school, I wrote my first `Hello World!` in C languaje
-- :octocat: I have knowledge in Data Analysis and Front End development
-- :earth_americas: Languages: Spanish, English and French
+- :game_die: I'm studying a Bachelor of Science degree in Mathematics at the National Autonomous University of Mexico (UNAM).
+- :computer: I'm a Computer Science enthusiastic.
+- :rocket: When I was in high school, I wrote my first `Hello World!` in C languaje.
+- :octocat: I have knowledge in Data Analysis and Front End development.
+- :earth_americas: Languages: Spanish, English and French.
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
