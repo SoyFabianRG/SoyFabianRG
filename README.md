@@ -10,7 +10,7 @@
 - :computer: I'm a Computer Science enthusiastic.
 - :rocket: When I was in high school, I wrote my first `Hello World!` in C languaje.
 - :octocat: I have knowledge in Data Analysis and Front End development.
-- :earth_americas: Languages: Spanish, English and French.
+- :earth_americas: Languages: Spanish and English.
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
