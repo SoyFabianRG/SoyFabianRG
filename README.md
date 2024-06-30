@@ -5,11 +5,16 @@
 </h2>
 
 <h2 align = "center"> 👨‍💻 About me </h2>
+I'm an undergraduate student pursuing a Bachelor of Science degree in Mathematics at National Autonomous University of Mexico (UNAM). My field of specialty is Discrete Mathematics, with a focus on Mathematical Logic and Probability Theory. Additionally, I have one year of experience in customer service.
 
-- :game_die: I'm studying a Bachelor of Science degree in Mathematics at the National Autonomous University of Mexico (UNAM).
-- :computer: I'm a Computer Science enthusiastic.
+Mi skill set is: 
+- Functional and Object Programming
+- Management of the libraries Pandas, NumPy & Plotly Dash for data analysis.
+- Management of React for Front End development.
+
+ Fun facts:
 - :rocket: When I was in high school, I wrote my first `Hello World!` in C languaje.
-- :octocat: I have knowledge in Data Analysis and Front End development.
+- :octocat: I practice Lima Lama.
 - :earth_americas: Languages: Spanish and English.
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
