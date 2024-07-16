@@ -90,10 +90,6 @@ Mi skill set is:
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![Microsoft 365](https://img.shields.io/badge/microsoft_365-AF81DB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
 [![Google Workspace](https://img.shields.io/badge/google_workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/intl/en/)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
-[![Google Gemini](https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini)
-[![Microsfot Copilot](https://img.shields.io/badge/microsoft_copilot-F36285?style=for-the-badge&logo=microsoftbing&logoColor=white)](https://www.microsoft.com/en-us/microsoft-copilot)
-[![GitHub Copilot](https://img.shields.io/badge/github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 [![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 <!--
 [![React](https://img.shields.io/badge/react.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
@@ -103,6 +99,10 @@ Mi skill set is:
 [![Vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
 [![Neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
 [![OCI](https://img.shields.io/badge/oci-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
+[![Google Gemini](https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini)
+[![Microsfot Copilot](https://img.shields.io/badge/microsoft_copilot-F36285?style=for-the-badge&logo=microsoftbing&logoColor=white)](https://www.microsoft.com/en-us/microsoft-copilot)
+[![GitHub Copilot](https://img.shields.io/badge/github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 -->
 
 <h2 align = "center"> :star: Top Projects </h2>
