@@ -14,9 +14,9 @@ My skill set includes:
 - Proficiency in using React for Front End development.
 
  Fun facts:
-- :rocket: When I was in high school, I wrote my first `Hello World!` in C languaje.
-- :octocat: I practice Lima Lama.
-- :earth_americas: Languages: Spanish and English.
+- When I was in high school, I wrote my first `Hello World!` in C languaje.
+- I practice Lima Lama.
+- Languages: Spanish and English.
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
