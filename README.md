@@ -5,12 +5,13 @@
 </h2>
 
 <h2 align = "center"> 👨‍💻 About me </h2>
-I'm an undergraduate student pursuing a Bachelor of Science degree in Mathematics at National Autonomous University of Mexico (UNAM). My field of specialty is Discrete Mathematics, with a focus on Mathematical Logic and Probability Theory. Additionally, I have one year of experience in customer service.
+I'm an undergraduate student pursuing a Bachelor of Science degree in Mathematics at National Autonomous University of Mexico (UNAM). My field of specialty is Discrete Mathematics, with a focus on Mathematical Logic and Set Theory. Additionally, I have one year of experience in customer service.
 
-Mi skill set is: 
-- Functional and Object Programming
-- Management of the libraries Pandas, NumPy & Plotly Dash for data analysis.
-- Management of React for Front End development.
+My skill set includes:
+- Linear and abstract algebra, real, complex and numerical analysis, multivariable calculus, differentials equations, mathematical logic, set, number and graph theory.
+- Functional and object-oriented programming.
+- Proficiency in using Pandas, NumPy, and Plotly Dash for data analysis.
+- Proficiency in using React for Front End development.
 
  Fun facts:
 - :rocket: When I was in high school, I wrote my first `Hello World!` in C languaje.
