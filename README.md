@@ -12,11 +12,7 @@ My skill set includes:
 - Functional and object-oriented programming.
 - Proficiency in using Pandas, NumPy, and Plotly Dash for data analysis.
 - Proficiency in using React for Front End development.
-- Languages: Spanish and English.
-
- Fun facts:
-- When I was in high school, I wrote my first `Hello World!` in C languaje.
-- I practice Lima Lama.
+- Level B1 in English.
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
