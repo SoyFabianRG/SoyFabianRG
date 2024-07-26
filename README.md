@@ -10,6 +10,7 @@ I'm an undergraduate student pursuing a Bachelor of Science degree in Mathematic
 My skill set includes:
 - Linear and abstract algebra, real, complex and numerical analysis, multivariable calculus, differentials equations, mathematical logic, set, number and graph theory.
 - Functional and object-oriented programming.
+- Application of SOLID principles
 - Proficiency in using Pandas, NumPy, and Plotly Dash for data analysis.
 - Proficiency in using React for Front End development.
 - Level B1 in English.
