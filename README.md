@@ -16,15 +16,19 @@ My skill set includes:
     - Differentials equations.
     - Mathematical logic.
     - Set, number and graph theory.
+
 - Data Science:
     - Data mining
     - Dashboard desing.
     - Proficiency in using Pandas, NumPy, and Plotly Dash for data analysis.
+
 - Programming:
     - Functional and object-oriented programming.
     - Application of SOLID principles.
+
 - Front End development:
     - Proficiency in using React.
+
 - Languajes:
     - Level B1 in English.
 
