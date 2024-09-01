@@ -24,6 +24,7 @@ Data Science:
 
 Programming:
 - Functional and object-oriented programming.
+- Algorithm analysis
 - Application of SOLID principles.
 
 Front End development:
