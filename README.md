@@ -46,12 +46,12 @@ Languajes:
 
 <h2 align = "center"> :trophy: Certifications </h2>
 
-[![Coursera](https://img.shields.io/badge/coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb)
-[![Google Cloud Skills Boost](https://img.shields.io/badge/skills_boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/64d37062-ade6-46ee-8b3e-06485f08fe6b)
-[![Microsoft Learn](https://img.shields.io/badge/microsoft_learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
 [![DataCamp](https://img.shields.io/badge/datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/soyfabianrg)
-[![Alura Latam](https://img.shields.io/badge/alura_latam-082B58?style=for-the-badge)](https://app.aluracursos.com/user/soyfabianrg)
+[![Coursera](https://img.shields.io/badge/coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb)
 [![Platzi](https://img.shields.io/badge/platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/SoyFabianRG)
+[![Alura Latam](https://img.shields.io/badge/alura_latam-082B58?style=for-the-badge)](https://app.aluracursos.com/user/soyfabianrg)
+[![Microsoft Learn](https://img.shields.io/badge/microsoft_learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
+[![Google Cloud Skills Boost](https://img.shields.io/badge/skills_boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/64d37062-ade6-46ee-8b3e-06485f08fe6b)
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
 [![Badgr](https://img.shields.io/badge/badgr-282C4C?style=for-the-badge&logo=canvas&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
 [![Duolingo](https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
@@ -92,9 +92,9 @@ Languajes:
 [![GeoGebra](https://img.shields.io/badge/geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org)
 [![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 [![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.w3schools.io/file/markdown-introduction)
+[![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
 [![LazyVim](https://img.shields.io/badge/lazyvim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white)](https://www.lazyvim.org)
-[![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Google Colaboratory](https://img.shields.io/badge/colaboratory-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 [![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio/)
