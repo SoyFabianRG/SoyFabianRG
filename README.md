@@ -52,6 +52,7 @@ Languajes:
 [![Alura Latam](https://img.shields.io/badge/alura_latam-082B58?style=for-the-badge)](https://app.aluracursos.com/user/soyfabianrg)
 [![Microsoft Learn](https://img.shields.io/badge/microsoft_learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/skills_boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/64d37062-ade6-46ee-8b3e-06485f08fe6b)
+[![Cognitive Class](https://img.shields.io/badge/cognitive_class-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://cognitiveclass.ai/profile/SoyFabianRG)
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
 [![Badgr](https://img.shields.io/badge/badgr-282C4C?style=for-the-badge&logo=canvas&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
 [![Duolingo](https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
@@ -59,9 +60,6 @@ Languajes:
 <!-- [![Hyperskill](https://img.shields.io/badge/hyperskill-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/254456992) -->
 <!-- [![W3Schools](https://img.shields.io/badge/w3schools-04a96d?style=for-the-badge)](https://www.w3profile.com/SoyFabianRG) -->
 <!-- [![Khan Academy](https://img.shields.io/badge/khan_academy-14BF96?style=for-the-badge)](http://www.khanacademy.org/profile/SoyFabianRG) -->
-<!-- [![Cognitive Class](https://img.shields.io/badge/cognitive_class-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://cognitiveclass.ai/profile/SoyFabianRG) -->
-<!-- https://courses.cognitiveclass.ai/u/SoyFabianRG) -->
-<!-- [![México X](https://img.shields.io/badge/méxico_x-18384E?style=for-the-badge)](https://mexicox.gob.mx/u/SoyFabianRG) -->
 <!-- [![MathWorks](https://img.shields.io/badge/mathworks-Bf4A06?style=for-the-badge)](https://la.mathworks.com/matlabcentral/profile/authors/21447057) -->
 
 <h2 align = "center"> :muscle: Challenges </h2>
