@@ -53,7 +53,6 @@ Languajes:
 [![Google Cloud Skills Boost](https://img.shields.io/badge/skills_boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/64d37062-ade6-46ee-8b3e-06485f08fe6b)
 [![Cognitive Class](https://img.shields.io/badge/cognitive_class-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://cognitiveclass.ai/profile/SoyFabianRG)
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
-[![Badgr](https://img.shields.io/badge/badgr-282C4C?style=for-the-badge&logo=canvas&logoColor=white)](https://api.badgr.io/public/collections/82009f34774d4d0a9ad2e9894f4d6fea)
 [![Duolingo](https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
 <!--
 [![Hyperskill](https://img.shields.io/badge/hyperskill-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/254456992)
