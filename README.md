@@ -35,6 +35,7 @@ Languajes:
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
+[![Correo](https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
 [![Portfolio](https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
 [![Probecarios](https://img.shields.io/badge/probecarios-081f47?style=for-the-badge)](https://probecarios.com/candidato/soyfabianrg)
@@ -69,21 +70,19 @@ Languajes:
 
 <h2 align = "center"> 🛠️ Languages and Tools </h2>
 
-[![Lenguaje C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
-[![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 [![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/web/javascript)
 [![Haskell](https://img.shields.io/badge/haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org)
-[![Racket](https://img.shields.io/badge/racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)](https://racket-lang.org)
 [![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Plotly Dash](https://img.shields.io/badge/plotly_dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://dash.plotly.com/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)](https://www.tidyverse.org)
-[![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
-[![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
+[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
+[![CSS3](https://img.shields.io/badge/css3-663399?style=for-the-badge&logo=css&logoColor=white)](https://www.w3.org/Style/CSS)
 [![Mathematica](https://img.shields.io/badge/mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)](https://www.wolfram.com/mathematica)
 [![Matlab](https://img.shields.io/badge/matlab-Bf4A06?style=for-the-badge)](https://www.mathworks.com/products/matlab.html)
 [![GeoGebra](https://img.shields.io/badge/geogebra-6557d2?style=for-the-badge)](https://www.geogebra.org)
@@ -104,7 +103,7 @@ Languajes:
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
 [![Fish](https://img.shields.io/badge/fish-34C534?style=for-the-badge&logo=fishshell&logoColor=white)](https://fishshell.com)
-[![Wezterm](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white)](https://wezterm.org)
+[![Ghostty](https://img.shields.io/badge/ghostty-062062?style=for-the-badge&logo=ghostty&logoColor=white)](https://ghostty.org)
 [![Obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![Microsoft 365](https://img.shields.io/badge/microsoft_365-AF81DB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
