@@ -35,7 +35,7 @@ Languajes:
 
 <h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
 
-[![Correo](https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soyfabianrg@gmail.com)
 [![Portfolio](https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
 [![Probecarios](https://img.shields.io/badge/probecarios-081f47?style=for-the-badge)](https://probecarios.com/candidato/soyfabianrg)
