@@ -54,11 +54,6 @@ Languajes:
 [![Microsoft Learn](https://img.shields.io/badge/microsoft_learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/skills_boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/64d37062-ade6-46ee-8b3e-06485f08fe6b)
 [![Duolingo](https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/SoyFabianRG)
-<!--
-[![Hyperskill](https://img.shields.io/badge/hyperskill-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://hyperskill.org/profile/254456992)
-[![W3Schools](https://img.shields.io/badge/w3schools-04a96d?style=for-the-badge)](https://www.w3profile.com/SoyFabianRG)
-[![Khan Academy](https://img.shields.io/badge/khan_academy-14BF96?style=for-the-badge)](http://www.khanacademy.org/profile/SoyFabianRG)
--->
 
 <h2 align = "center"> :muscle: Challenges </h2>
 
