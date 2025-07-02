@@ -99,6 +99,7 @@ Languajes:
 [![Ghostty](https://img.shields.io/badge/ghostty-062062?style=for-the-badge&logo=ghostty&logoColor=white)](https://ghostty.org)
 [![Obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
+[![Linear](https://img.shields.io/badge/linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)](https://linear.app)
 [![Microsoft 365](https://img.shields.io/badge/microsoft_365-AF81DB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
 [![Google Workspace](https://img.shields.io/badge/google_workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/intl/en/)
 [![Mendeley](https://img.shields.io/badge/mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white)](https://www.mendeley.com)
