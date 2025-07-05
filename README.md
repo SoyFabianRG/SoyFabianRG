@@ -39,7 +39,6 @@ Languajes:
 [![Portfolio](https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
 [![Probecarios](https://img.shields.io/badge/probecarios-081f47?style=for-the-badge)](https://probecarios.com/candidato/soyfabianrg)
-[![Emplea ONE](https://img.shields.io/badge/emplea_one-082B58?style=for-the-badge)](https://app.aluracursos.com/emprega-one/profile/soyfabianrg)
 [![Academia.edu](https://img.shields.io/badge/academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://unam.academia.edu/SoyFabianRG)
 [![Researchgate](https://img.shields.io/badge/researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fabian-Rios-Gil-2)
 
