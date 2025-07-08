@@ -33,7 +33,7 @@ Front End development:
 Languajes:
 - Level B1 in English.
 
-<h2 align = "center"> :mailbox_with_mail: Connect with me </h2>
+<h2 align = "center"> :mailbox_with_mail: Let's Connect </h2>
 
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soyfabianrg@gmail.com)
 [![Portfolio](https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
