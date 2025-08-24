@@ -94,8 +94,6 @@ Languajes:
 [![GNU/Linux](https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
-[![Fish](https://img.shields.io/badge/fish-34C534?style=for-the-badge&logo=fishshell&logoColor=white)](https://fishshell.com)
-[![Ghostty](https://img.shields.io/badge/ghostty-062062?style=for-the-badge&logo=ghostty&logoColor=white)](https://ghostty.org)
 [![Obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![Linear](https://img.shields.io/badge/linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)](https://linear.app)
@@ -110,6 +108,13 @@ Languajes:
 [![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org)
 [![OCI](https://img.shields.io/badge/oci-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud)
 -->
+
+<h2 align = "center"> 🛠️ My Set Up </h2>
+
+[![Nushell](https://img.shields.io/badge/nushell-4E9A06?style=for-the-badge&logo=nushell&logoColor=white)](https://www.nushell.sh)
+[![Ghostty](https://img.shields.io/badge/ghostty-062062?style=for-the-badge&logo=ghostty&logoColor=white)](https://ghostty.org)
+[![Zellij](https://img.shields.io/badge/zellij-7e9fbe4?style=for-the-badge&logo=zellijl&logoColor=white)](https://zellij.dev)
+[![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)](https://starship.rs)
 
 <h2 align = "center"> :star: Top Projects </h2>
 
