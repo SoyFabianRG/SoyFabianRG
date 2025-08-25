@@ -107,11 +107,6 @@ Languajes:
 [![Google Colaboratory](https://img.shields.io/badge/colaboratory-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 [![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio)
 [![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip)
-[![Overleaf](https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com)
-[![Microsoft 365](https://img.shields.io/badge/microsoft_365-AF81DB?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
-[![Google Workspace](https://img.shields.io/badge/google_workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/intl/en/)
-[![Obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
-[![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 
 <h2 align = "center"> :star: Top Projects </h2>
 
