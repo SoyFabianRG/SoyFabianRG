@@ -112,7 +112,6 @@ Languajes:
 [![Google Workspace](https://img.shields.io/badge/google_workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/intl/en/)
 [![Obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
-[![Linear](https://img.shields.io/badge/linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)](https://linear.app)
 
 <h2 align = "center"> :star: Top Projects </h2>
 
