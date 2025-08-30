@@ -111,6 +111,7 @@ Languajes:
 [![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio)
 [![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip)
 
+<!--
 <h2 align = "center"> :star: Top Projects </h2>
 
 <div align = "center">
@@ -118,6 +119,7 @@ Languajes:
 [![Plantillas UNAM](https://github-readme-stats.vercel.app/api/pin/?username=SoyFabianRG&repo=Plantillas-UNAM&show_icons=true&theme=github_dark)](https://github.com/SoyFabianRG/Plantillas-UNAM)
 
 </div>
+-->
 
 <h2 align = "center"> :bar_chart: GitHub Stats </h2>
 
