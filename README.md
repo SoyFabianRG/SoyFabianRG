@@ -32,7 +32,7 @@ Front End development:
 
 Languajes:
 - Level B1 in English.
-
+<!--
 <h2 align = "center"> :mailbox_with_mail: Let's Connect </h2>
 
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soyfabianrg@gmail.com)
@@ -41,6 +41,7 @@ Languajes:
 [![Academia.edu](https://img.shields.io/badge/academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://unam.academia.edu/SoyFabianRG)
 [![Researchgate](https://img.shields.io/badge/researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fabian-Rios-Gil-2)
 [![Probecarios](https://img.shields.io/badge/probecarios-081f47?style=for-the-badge)](https://probecarios.com/candidato/soyfabianrg)
+-->
 
 <h2 align = "center"> :trophy: Certifications </h2>
 
