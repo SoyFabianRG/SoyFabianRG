@@ -43,7 +43,6 @@ Languajes:
 <h2 align = "center"> :trophy: Certifications </h2>
 
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
-[![DataCamp](https://img.shields.io/badge/datacamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/soyfabianrg)
 [![Coursera](https://img.shields.io/badge/coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb)
 [![Platzi](https://img.shields.io/badge/platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/SoyFabianRG)
 [![Alura Latam](https://img.shields.io/badge/alura_latam-082B58?style=for-the-badge&logo=alura&logoColor=white)](https://app.aluracursos.com/user/soyfabianrg)
