@@ -90,6 +90,7 @@ Languajes:
 
 [![GNU/Linux](https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)](https://brew.sh)
 [![Nushell](https://img.shields.io/badge/nushell-4E9A06?style=for-the-badge&logo=nushell&logoColor=white)](https://www.nushell.sh)
 [![Ghostty](https://img.shields.io/badge/ghostty-062062?style=for-the-badge&logo=ghostty&logoColor=white)](https://ghostty.org)
 [![Zellij](https://img.shields.io/badge/zellij-7e9fbe4?style=for-the-badge&logo=zellij&logoColor=white)](https://zellij.dev)
