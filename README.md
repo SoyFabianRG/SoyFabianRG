@@ -46,7 +46,7 @@ Languajes:
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
 [![Coursera](https://img.shields.io/badge/coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb)
 [![Platzi](https://img.shields.io/badge/platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/SoyFabianRG)
-[![Alura Latam](https://img.shields.io/badge/alura_latam-082B58?style=for-the-badge&logo=alura&logoColor=white)](https://app.aluracursos.com/user/soyfabianrg)
+[![Alura](https://img.shields.io/badge/alura-082B58?style=for-the-badge&logo=alura&logoColor=white)](https://app.aluracursos.com/user/soyfabianrg)
 [![Microsoft Learn](https://img.shields.io/badge/microsoft_learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/es-mx/users/soyfabianrg)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/skills_boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/64d37062-ade6-46ee-8b3e-06485f08fe6b)
 [![AWS SKills Builder](https://img.shields.io/badge/skills_builder-242D3E?style=for-the-badge&logo=amazon&logoColor=white)](https://skillsprofile.skillbuilder.aws/user/soyfabianrg)
