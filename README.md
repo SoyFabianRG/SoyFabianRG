@@ -97,7 +97,7 @@ Languajes:
 [![Ghostty](https://img.shields.io/badge/ghostty-062062?style=for-the-badge&logo=ghostty&logoColor=white)](https://ghostty.org)
 [![Zellij](https://img.shields.io/badge/zellij-7e9fbe4?style=for-the-badge&logo=zellij&logoColor=white)](https://zellij.dev)
 [![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)](https://starship.rs)
-[![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![Neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
 [![LazyVim](https://img.shields.io/badge/lazyvim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white)](https://www.lazyvim.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
