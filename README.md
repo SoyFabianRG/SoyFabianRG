@@ -57,7 +57,7 @@ Languajes:
 [![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/SoyFabianRG)
 [![Dcoder](https://img.shields.io/badge/dcoder-000000?style=for-the-badge&logo=dcoder&logoColor=white)](https://code.dcoder.tech/profile/soyfabianrg)
 
-<h2 align = "center"> 🛠️ Languages and Tools </h2>
+<h2 align = "center"> 🛠️ Languages, Frameworks, Libraries and Tools </h2>
 
 [![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en)
