@@ -80,7 +80,7 @@ Languajes:
 [![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org)
 [![Mathematica](https://img.shields.io/badge/mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)](https://www.wolfram.com/mathematica)
 [![Matlab](https://img.shields.io/badge/matlab-Bf4A06?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![GeoGebra](https://img.shields.io/badge/geogebra-6557d2?style=for-the-badge&logo=geogebra&logoColor=white)](https://www.geogebra.org)
+[![GeoGebra](https://custom-icon-badges.demolab.com/badge/GeoGebra-6557d2?style=for-the-badge&logo=geogebra&logoColor=white)](https://www.geogebra.org)
 [![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 [![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.w3schools.io/file/markdown-introduction)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
