@@ -120,7 +120,7 @@ Languajes:
 
 <div width = "100%">
     <a href = "https://github.com/SoyFabianRG">
-        <img height = "150em" src = "https://streak-stats.demolab.com/?user=SoyFabianRG&theme=github-dark-blue">
+        <img height = "150em" src = "https://streak-stats.demolab.com?user=SoyFabianRG&theme=github-dark-blue">
     </a>
  </div>
  
