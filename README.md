@@ -5,33 +5,6 @@
 </h2>
 
 <h2 align = "center"> 👨‍💻 About me </h2>
-I'm an undergraduate student pursuing a Bachelor of Science degree in Mathematics at National Autonomous University of Mexico (UNAM). My field of specialty is Discrete Mathematics, with a focus on Mathematical Logic and Set Theory. Additionally, I have one year of experience in customer service.
-
-My skill set includes:
-
-Mathematics:
-- Linear and abstract algebra.
-- Real, complex and numerical analysis.
-- Multivariable calculus.
-- Differentials equations.
-- Mathematical logic.
-- Set, number and graph theory.
-
-Data Science:
-- Data mining
-- Dashboard desing.
-- Proficiency in using Pandas, NumPy, and Plotly Dash for data analysis.
-
-Programming:
-- Functional and object-oriented programming.
-- Algorithm analysis
-- Application of SOLID principles.
-
-Front End development:
-- Proficiency in using React.
-
-Languajes:
-- Level B1 in English.
 
 <!--
 <h2 align = "center"> :mailbox_with_mail: Let's Connect </h2>
