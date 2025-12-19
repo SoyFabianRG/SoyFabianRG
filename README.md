@@ -104,7 +104,6 @@ Languajes:
 [![Google Colaboratory](https://img.shields.io/badge/colaboratory-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 [![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio)
 [![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip)
-
 <!--
 <h2 align = "center"> :star: Top Projects </h2>
 
