@@ -92,9 +92,7 @@
 <div align = "center">
 
 <div width = "100%">
-    <a href = "https://github.com/SoyFabianRG">
-        <img height = "150em" src = "https://streak-stats.demolab.com?user=SoyFabianRG&theme=github-dark-blue">
-    </a>
+    <a href = "https://github.com/SoyFabianRG"><img height = "150em" src = "https://streak-stats.demolab.com?user=SoyFabianRG&theme=catppuccin-mocha&locale=es"></a>
  </div>
  
 <div width = "100%">
