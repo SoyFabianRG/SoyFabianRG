@@ -92,15 +92,15 @@
 <div align = "center">
 
 <div width = "100%">
-    <a href = "https://github.com/SoyFabianRG"><img height = "150em" src = "https://streak-stats.demolab.com?user=SoyFabianRG&theme=catppuccin-mocha&locale=es"></a>
- </div>
+    <a href="https://github.com/SoyFabianRG"><img height="150em" src="https://streak-stats.demolab.com?user=SoyFabianRG&theme=catppuccin-mocha&locale=es" alt="GitHub Streak"></a>
+</div>
  
 <div width = "100%">
     <a href = "https://github.com/SoyFabianRG">
         <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=SoyFabianRG&theme=github_dark&show_icons=true">
         <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark&layout=compact&langs_count=10">
     </a>
- </div>    
+</div>    
 
 <picture>
     <source media = "(prefers-color-scheme: dark)" srcset = "https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg">
