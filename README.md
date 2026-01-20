@@ -93,7 +93,7 @@
 <div align = "center">
 
 <div width = "100%">
-    <a href="https://github.com/SoyFabianRG"><img height="150em" src="https://streak-stats.demolab.com?user=SoyFabianRG&theme=catppuccin-mocha&locale=es" alt="GitHub Streak"></a>
+    <a href="https://github.com/SoyFabianRG"><img height="150em" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha&locale=es" alt="GitHub Streak"></a>
 </div>
  
 <div width = "100%">
