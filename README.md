@@ -77,11 +77,12 @@
 [![Google Colaboratory](https://img.shields.io/badge/colaboratory-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 [![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio)
 [![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip)
+
 <!--
 <h2 align = "center"> :star: Top Projects </h2>
 
 <div align = "center">
-    
+
 [![Plantillas UNAM](https://github-readme-stats.vercel.app/api/pin/?username=SoyFabianRG&repo=Plantillas-UNAM&show_icons=true&theme=github_dark)](https://github.com/SoyFabianRG/Plantillas-UNAM)
 
 </div>
@@ -97,10 +98,10 @@
  
 <div width = "100%">
     <a href = "https://github.com/SoyFabianRG">
-        <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=SoyFabianRG&theme=github_dark&show_icons=true">
-        <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoyFabianRG&theme=github_dark&layout=compact&langs_count=10">
+        <img height = "150em" src = "./profile/stats.svg">
+        <img height = "150em" src = "./profile/top-langs.svg">
     </a>
-</div>    
+</div>
 
 <picture>
     <source media = "(prefers-color-scheme: dark)" srcset = "https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg">
