@@ -6,11 +6,35 @@
 
 <h2 align="center"> 👨‍💻 About me </h2>
 
-<h2 align="center"> :mailbox_with_mail: Let's Connect </h2>
+> I'm a **Mathematics student** at the National Autonomous University of Mexico (UNAM) with a deep passion for **Discrete Mathematics**, **Mathematical Logic**, and **Set Theory**.
 
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soyfabianrg@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
+My background provides me with a strong analytical and problem-solving mindset. This, combined with my experience in customer service, has equipped me with effective **communication**, **teamwork**, and **adaptability** skills.
+
+I am actively seeking **internship opportunities** to apply my mathematical and computational skills to real-world challenges in **Data Analysis**, **Algorithm Design**, and **Software Development**.
+
+---
+
+### Core Competencies
+
+- **Mathematics:**
+  - Linear & Abstract Algebra
+  - Real, Complex & Numerical Analysis
+  - Multivariable Calculus & Differential Equations
+  - Mathematical Logic, Set Theory, Number Theory & Graph Theory
+
+- **Data Science:**
+  - Data Mining, Dashboard Design
+  - Analysis & Visualization with Pandas, NumPy, and Plotly Dash
+
+- **Programming:**
+  - Functional & Object-Oriented Programming (OOP)
+  - Algorithm Analysis & SOLID Principles
+
+- **Front-End:**
+  - React
+
+- **Languages:**
+  - English (B1)
 
 <h2 align="center"> :trophy: Certifications </h2>
 
