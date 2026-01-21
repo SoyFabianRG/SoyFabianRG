@@ -6,7 +6,7 @@
 
 <h2 align="center"> 👨‍💻 About me </h2>
 
-> I'm a **Mathematics student** at the National Autonomous University of Mexico (UNAM) with a deep passion for **Discrete Mathematics**, **Mathematical Logic**, and **Set Theory**.
+I'm a **Mathematics student** at the National Autonomous University of Mexico (UNAM) with a deep passion for **Discrete Mathematics**, **Mathematical Logic**, and **Set Theory**.
 
 My background provides me with a strong analytical and problem-solving mindset. This, combined with my experience in customer service, has equipped me with effective **communication**, **teamwork**, and **adaptability** skills.
 
