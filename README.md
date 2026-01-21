@@ -1,20 +1,18 @@
-<h2 align = "center">
-    <a href = "https://github.com/SoyFabianRG">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabián">
+<h2 align="center">
+    <a href="https://github.com/SoyFabianRG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabián" alt="Hello World! I'm Fabián">
     </a>
 </h2>
 
-<h2 align = "center"> 👨‍💻 About me </h2>
+<h2 align="center"> 👨‍💻 About me </h2>
 
-<!--
-<h2 align = "center"> :mailbox_with_mail: Let's Connect </h2>
+<h2 align="center"> :mailbox_with_mail: Let's Connect </h2>
 
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soyfabianrg@gmail.com)
 [![Portfolio](https://img.shields.io/badge/portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://soyfabianrg.github.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soyfabianrg)
--->
 
-<h2 align = "center"> :trophy: Certifications </h2>
+<h2 align="center"> :trophy: Certifications </h2>
 
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
 [![Coursera](https://img.shields.io/badge/coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/c10a888a8725cca7da1542d8559964eb)
@@ -24,13 +22,13 @@
 [![Google Cloud Skills Boost](https://img.shields.io/badge/skills_boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/64d37062-ade6-46ee-8b3e-06485f08fe6b)
 [![AWS SKills Builder](https://img.shields.io/badge/skills_builder-242D3E?style=for-the-badge&logo=amazon&logoColor=white)](https://skillsprofile.skillbuilder.aws/user/soyfabianrg)
 
-<h2 align = "center"> :muscle: Challenges </h2>
+<h2 align="center"> :muscle: Challenges </h2>
 
 [![Codeforces](https://img.shields.io/badge/codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SoyFabianRG)
 [![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/SoyFabianRG)
 [![Dcoder](https://img.shields.io/badge/dcoder-000000?style=for-the-badge&logo=dcoder&logoColor=white)](https://code.dcoder.tech/profile/soyfabianrg)
 
-<h2 align = "center"> 🛠️ Languages, Frameworks, Libraries and Tools </h2>
+<h2 align="center"> :hammer_and_wrench: Tech Stack </h2>
 
 [![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
 [![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en)
@@ -61,7 +59,7 @@
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
-<h2 align = "center"> 🌿 My Ecosystem </h2>
+<h2 align="center"> :herb: My Ecosystem </h2>
 
 [![GNU/Linux](https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
@@ -78,7 +76,7 @@
 [![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio)
 [![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip)
 
-<h2 align="center">:star: Top Projects</h2>
+<!-- <h2 align="center">:star: Top Projects</h2>
 <table align="center">
     <tr>
         <td align="center">
@@ -87,7 +85,7 @@
             </a>
         </td>
     </tr>
-</table>
+</table> -->
 
 <h2 align="center">:bar_chart: GitHub Stats</h2>
 <table align="center">
@@ -101,12 +99,12 @@
     <tr>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="./profile/stats.svg">
+                <img height="150px" src="./profile/stats.svg" alt="GitHub Stats">
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="./profile/top-langs.svg">
+                <img height="150px" src="./profile/top-langs.svg" alt="Top Languages">
             </a>
         </td>
     </tr>
@@ -114,7 +112,7 @@
         <td colspan="2" align="center">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg">
-                <img src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg">
+                <img src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
             </picture>
         </td>
     </tr>
