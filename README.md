@@ -78,38 +78,44 @@
 [![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio)
 [![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip)
 
-<h2 align = "center"> :star: Top Projects </h2>
+<h2 align="center">:star: Top Projects</h2>
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/SoyFabianRG">
+                <img height="150px" src="./profile/pin-plantillas-unam.svg" alt="Plantillas UNAM">
+            </a>
+        </td>
+    </tr>
+</table>
 
-<div align = "center">
-
-<div width = "100%">
-    <a href = "https://github.com/SoyFabianRG">
-        <img height = "150em" src = "./profile/pin-plantillas-unam.svg" alt="Plantillas UNAM">
-    </a>
-</div>
-
-</div>
-
-<h2 align = "center"> :bar_chart: GitHub Stats </h2>
-
-<div align = "center">
-
-<div width = "100%">
-    <a href="https://github.com/SoyFabianRG"><img height="150em" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha" alt="GitHub Streak"></a>
-</div>
- 
-<div width = "100%">
-    <a href = "https://github.com/SoyFabianRG">
-        <img height = "150em" src = "./profile/stats.svg">
-        <img height = "150em" src = "./profile/top-langs.svg">
-    </a>
-</div>
-
-<div align="center">
-    <picture>
-        <source media = "(prefers-color-scheme: dark)" srcset = "https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg">
-        <img src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-
-</div>
+<h2 align="center">:bar_chart: GitHub Stats</h2>
+<table align="center">
+    <tr>
+        <td colspan="2" align="center">
+            <a href="https://github.com/SoyFabianRG">
+                <img height="150px" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha" alt="GitHub Streak">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/SoyFabianRG">
+                <img height="150px" src="./profile/stats.svg">
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/SoyFabianRG">
+                <img height="150px" src="./profile/top-langs.svg">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg">
+                <img src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg">
+            </picture>
+        </td>
+    </tr>
+</table>
