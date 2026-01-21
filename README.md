@@ -4,7 +4,7 @@
     </a>
 </h2>
 
-<h2 align="center"> 👨‍💻 About me </h2>
+<h2 align="center"> :man_technologist: About me </h2>
 
 I'm a **Mathematics student** at the National Autonomous University of Mexico (UNAM) with a deep passion for **Discrete Mathematics**, **Mathematical Logic**, and **Set Theory**.
 
