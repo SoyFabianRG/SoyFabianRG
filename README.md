@@ -78,22 +78,24 @@
 [![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio)
 [![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip)
 
-<!--
 <h2 align = "center"> :star: Top Projects </h2>
 
 <div align = "center">
 
-[![Plantillas UNAM](https://github-readme-stats.vercel.app/api/pin/?username=SoyFabianRG&repo=Plantillas-UNAM&show_icons=true&theme=github_dark)](https://github.com/SoyFabianRG/Plantillas-UNAM)
+<div width = "100%">
+    <a href = "https://github.com/SoyFabianRG">
+        <img height = "150em" src = "./profile/pin-plantillas-unam.svg" alt="Plantillas UNAM">
+    </a>
+</div>
 
 </div>
--->
 
 <h2 align = "center"> :bar_chart: GitHub Stats </h2>
 
 <div align = "center">
 
 <div width = "100%">
-    <a href="https://github.com/SoyFabianRG"><img height="150em" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha&locale=es" alt="GitHub Streak"></a>
+    <a href="https://github.com/SoyFabianRG"><img height="150em" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha" alt="GitHub Streak"></a>
 </div>
  
 <div width = "100%">
