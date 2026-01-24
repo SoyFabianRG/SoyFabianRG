@@ -118,7 +118,7 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
     <tr>
         <td colspan="2" align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" alt="GitHub Streak" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha&background=1E1E2E" />
+                <img height="150px" alt="GitHub Streak" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha"/>
             <!-- </a> -->
         </td>
     </tr>
