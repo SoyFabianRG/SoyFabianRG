@@ -107,7 +107,7 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
     <tr>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="./profile/pin-plantillas-unam.svg" alt="Plantillas UNAM">
+                <img height="150px" src="https://github.com/SoyFabianRG/SoyFabianRG/blob/output/pin-plantillas-unam.svg" alt="Plantillas UNAM">
             </a>
         </td>
     </tr>
@@ -125,12 +125,12 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
     <tr>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="./profile/stats.svg" alt="GitHub Stats">
+                <img height="150px" src="https://github.com/SoyFabianRG/SoyFabianRG/blob/output/stats.svg" alt="GitHub Stats">
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="./profile/top-langs.svg" alt="Top Languages">
+                <img height="150px" src="https://github.com/SoyFabianRG/SoyFabianRG/blob/output/top-langs.svg" alt="Top Languages">
             </a>
         </td>
     </tr>
