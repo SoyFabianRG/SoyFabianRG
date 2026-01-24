@@ -119,14 +119,14 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
         <td colspan="2" align="center">
             <a href="https://github.com/SoyFabianRG">
                 <img height="150px" alt="GitHub Streak" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha"/>
-            <!-- </a> -->
+            </a>
         </td>
     </tr>
     <tr>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
                 <img height="150px" alt="GitHub Stats" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/stats.svg"/>
-            <!-- </a> -->
+            </a>
         </td>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
@@ -147,6 +147,4 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
 
 # PRUEBA
 
-            <a href="https://github.com/SoyFabianRG">
-                <img height="150px" alt="Top Languages" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/top-langs.svg"/>
-            </a>
+<img height="150px" alt="Top Languages" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/top-langs.svg"/>
