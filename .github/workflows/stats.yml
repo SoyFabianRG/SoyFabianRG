@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 3 * * *" # Se ejecuta todos los días a las 3am
   workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -13,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: output  # Checkout de la rama output
+          ref: output # Checkout de la rama output
 
       # 1. Generar la tarjeta de Estadísticas Generales
       - name: Generate General Stats
@@ -21,7 +24,7 @@ jobs:
         with:
           card: stats
           options: username=SoyFabianRG&theme=catppuccin_mocha&show_icons=true
-          path: stats.svg  # Ahora en la raíz de output
+          path: stats.svg # Ahora en la raíz de output
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2. Generar la tarjeta de Top Lenguajes
@@ -30,7 +33,7 @@ jobs:
         with:
           card: top-langs
           options: username=SoyFabianRG&theme=catppuccin_mocha&layout=compact&langs_count=10
-          path: top-langs.svg  # Ahora en la raíz de output
+          path: top-langs.svg # Ahora en la raíz de output
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
@@ -38,7 +41,7 @@ jobs:
         with:
           card: pin
           options: username=SoyFabianRG&repo=Plantillas-UNAM&show_icons=true&theme=catppuccin_mocha
-          path: pin-plantillas-unam.svg  # Ahora en la raíz de output
+          path: pin-plantillas-unam.svg # Ahora en la raíz de output
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # 3. Guardar los cambios en la rama output
