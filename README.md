@@ -1,6 +1,6 @@
 <h2 align="center">
     <a href="https://github.com/SoyFabianRG">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabián" alt="Hello World! I'm Fabián">
+        <img alt="Hello World! I'm Fabián" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=90&lines=Hello+World!+I'm+Fabián"/>
     </a>
 </h2>
 
@@ -107,7 +107,7 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
     <tr>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/pin-plantillas-unam.svg" alt="Plantillas UNAM">
+                <img height="150px" alt="Plantillas UNAM" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/pin-plantillas-unam.svg"/>
             </a>
         </td>
     </tr>
@@ -118,19 +118,19 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
     <tr>
         <td colspan="2" align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha" alt="GitHub Streak">
+                <img height="150px" alt="GitHub Streak" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha"/>
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/stats.svg" alt="GitHub Stats">
+                <img height="150px" alt="GitHub Stats" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/stats.svg"/>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/top-langs.svg" alt="Top Languages">
+                <img height="150px" alt="Top Languages" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/top-langs.svg"/>
             </a>
         </td>
     </tr>
@@ -139,7 +139,7 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg"/>
                 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg"/>
-				<img alt="GitHub Snake" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg"/>
+                <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg"/>
             </picture>
         </td>
     </tr>
