@@ -16,7 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: output # Checkout de la rama output
+          fetch-depth: 0 # Necesario para trabajar con múltiples ramas
+
+      # Cambiar a la rama output
+      - name: Switch to output branch
+        run: |
+          git fetch origin output:output || git checkout -b output
+          git checkout output
 
       # 1. Generar la tarjeta de Estadísticas Generales
       - name: Generate General Stats
