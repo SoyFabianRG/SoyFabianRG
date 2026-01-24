@@ -107,7 +107,7 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
     <tr>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="https://github.com/SoyFabianRG/SoyFabianRG/blob/output/pin-plantillas-unam.svg" alt="Plantillas UNAM">
+                <img height="150px" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/pin-plantillas-unam.svg" alt="Plantillas UNAM">
             </a>
         </td>
     </tr>
@@ -125,20 +125,21 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
     <tr>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="https://github.com/SoyFabianRG/SoyFabianRG/blob/output/stats.svg" alt="GitHub Stats">
+                <img height="150px" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/stats.svg" alt="GitHub Stats">
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" src="https://github.com/SoyFabianRG/SoyFabianRG/blob/output/top-langs.svg" alt="Top Languages">
+                <img height="150px" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/top-langs.svg" alt="Top Languages">
             </a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg">
-                <img src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg"/>
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg"/>
+				<img alt="GitHub Snake" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg"/>
             </picture>
         </td>
     </tr>
