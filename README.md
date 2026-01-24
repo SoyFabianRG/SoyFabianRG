@@ -102,36 +102,36 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
 [![Catppuccin](https://img.shields.io/badge/catppuccin-F5C2E7?style=for-the-badge&logo=catppuccin&logoColor=black)](https://catppuccin.com)
 [![JetBrains Mono](https://img.shields.io/badge/jetbrains_mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/es-es/lp/mono)
 
-<!-- <h2 align="center">:star: Top Projects</h2>
+<h2 align="center">:star: Top Projects</h2>
 <table align="center">
     <tr>
         <td align="center">
-            <a href="https://github.com/SoyFabianRG">
+            <!-- <a href="https://github.com/SoyFabianRG"> -->
                 <img height="150px" alt="Plantillas UNAM" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/pin-plantillas-unam.svg"/>
-            </a>
+            <!-- </a> -->
         </td>
     </tr>
-</table> -->
+</table>
 
 <h2 align="center">:bar_chart: GitHub Stats</h2>
 <table align="center">
     <tr>
         <td colspan="2" align="center">
-            <a href="https://github.com/SoyFabianRG">
+            <!-- <a href="https://github.com/SoyFabianRG"> -->
                 <img height="150px" alt="GitHub Streak" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha"/>
-            </a>
+            <!-- </a> -->
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/SoyFabianRG">
+            <!-- <a href="https://github.com/SoyFabianRG"> -->
                 <img height="150px" alt="GitHub Stats" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/stats.svg"/>
-            </a>
+            <!-- </a> -->
         </td>
         <td align="center">
-            <a href="https://github.com/SoyFabianRG">
+            <!-- <a href="https://github.com/SoyFabianRG"> -->
                 <img height="150px" alt="Top Languages" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/top-langs.svg"/>
-            </a>
+            <!-- </a> -->
         </td>
     </tr>
     <tr>
