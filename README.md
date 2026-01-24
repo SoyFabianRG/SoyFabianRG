@@ -144,7 +144,3 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
         </td>
     </tr>
 </table>
-
-# PRUEBA
-
-<img height="150px" alt="Top Languages" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/top-langs.svg"/>
