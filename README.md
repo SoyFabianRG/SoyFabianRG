@@ -106,9 +106,9 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
 <table align="center">
     <tr>
         <td align="center">
-            <!-- <a href="https://github.com/SoyFabianRG"> -->
+            <a href="https://github.com/SoyFabianRG">
                 <img height="150px" alt="Plantillas UNAM" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/pin-plantillas-unam.svg"/>
-            <!-- </a> -->
+            </a>
         </td>
     </tr>
 </table>
@@ -117,29 +117,29 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
 <table align="center">
     <tr>
         <td colspan="2" align="center">
-            <!-- <a href="https://github.com/SoyFabianRG"> -->
-                <img height="150px" alt="GitHub Streak" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha"/>
+            <a href="https://github.com/SoyFabianRG">
+                <img height="150px" alt="GitHub Streak" src="https://soyfabianrg-streak.vercel.app/api?user=SoyFabianRG&theme=catppuccin-mocha&background=1E1E2E" />
             <!-- </a> -->
         </td>
     </tr>
     <tr>
         <td align="center">
-            <!-- <a href="https://github.com/SoyFabianRG"> -->
+            <a href="https://github.com/SoyFabianRG">
                 <img height="150px" alt="GitHub Stats" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/stats.svg"/>
             <!-- </a> -->
         </td>
         <td align="center">
-            <!-- <a href="https://github.com/SoyFabianRG"> -->
+            <a href="https://github.com/SoyFabianRG">
                 <img height="150px" alt="Top Languages" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/top-langs.svg"/>
-            <!-- </a> -->
+            </a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg"/>
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg"/>
-                <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg"/>
+                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake-dark.svg" />
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg" />
+                <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SoyFabianRG/SoyFabianRG/output/github-contribution-grid-snake.svg" />
             </picture>
         </td>
     </tr>
