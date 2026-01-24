@@ -102,7 +102,7 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
 [![Catppuccin Mocha](https://img.shields.io/badge/catppuccin_mocha-cba6f7?style=for-the-badge&logo=catppuccin&logoColor=black)](https://catppuccin.com)
 [![JetBrains Mono](https://img.shields.io/badge/jetbrains_mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/lp/mono)
 
-<h2 align="center">:star: Top Projects</h2>
+<!-- <h2 align="center">:star: Top Projects</h2>
 <table align="center">
     <tr>
         <td align="center">
@@ -111,7 +111,7 @@ I am actively seeking **internship opportunities** to apply my mathematical and 
             </a>
         </td>
     </tr>
-</table>
+</table> -->
 
 <h2 align="center">:bar_chart: GitHub Stats</h2>
 <table align="center">
