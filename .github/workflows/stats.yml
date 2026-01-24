@@ -12,15 +12,16 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: output  # Checkout de la rama output
 
       # 1. Generar la tarjeta de Estadísticas Generales
       - name: Generate General Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # Copié tus opciones: theme=catppuccin_mocha, show_icons=true
           options: username=SoyFabianRG&theme=catppuccin_mocha&show_icons=true
-          path: profile/stats.svg
+          path: stats.svg  # Ahora en la raíz de output
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2. Generar la tarjeta de Top Lenguajes
@@ -28,9 +29,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          # Copié tus opciones: theme=github_dark, layout=compact, langs_count=10
           options: username=SoyFabianRG&theme=catppuccin_mocha&layout=compact&langs_count=10
-          path: profile/top-langs.svg
+          path: top-langs.svg  # Ahora en la raíz de output
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
@@ -38,14 +38,14 @@ jobs:
         with:
           card: pin
           options: username=SoyFabianRG&repo=Plantillas-UNAM&show_icons=true&theme=catppuccin_mocha
-          path: profile/pin-plantillas-unam.svg
+          path: pin-plantillas-unam.svg  # Ahora en la raíz de output
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Guardar los cambios en tu repo
+      # 3. Guardar los cambios en la rama output
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add *.svg
           git commit -m "Update stats cards" || exit 0
-          git push
+          git push origin output  # Push explícito a la rama output
