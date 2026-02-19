@@ -67,10 +67,6 @@
 [![Google Colaboratory](https://img.shields.io/badge/colaboratory-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 [![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio)
 [![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip)
-[![Atuin](https://img.shields.io/badge/atuin-824FFF?style=for-the-badge&logo=atuin&logoColor=white)](https://atuin.sh)
-[![Zoxide](https://img.shields.io/badge/zoxide-262D37?style=for-the-badge&logo=zoxide&logoColor=white)](https://crates.io/crates/zoxide)
-[![Catppuccin Mocha](https://img.shields.io/badge/catppuccin_mocha-cba6f7?style=for-the-badge&logo=catppuccin&logoColor=black)](https://catppuccin.com)
-[![JetBrains Mono](https://img.shields.io/badge/jetbrains_mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/lp/mono)
 
 <!-- <h2 align="center">:star: Top Projects</h2>
 <table align="center">
