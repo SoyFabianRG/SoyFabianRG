@@ -4,6 +4,12 @@
     </a>
 </h2>
 
+<h2 align="center"> :man_technologist: About me </h2>
+
+- 📚 Currently learning Python and Data Science
+- ☕ Powered by: Coffee, Neovim, and gym sessions
+- ⚡ Fun fact: I lift 120kg squat, 100kg deadlift and 70kg bench press
+
 <h2 align="center"> :trophy: Certifications </h2>
 
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/soyfabianrg)
