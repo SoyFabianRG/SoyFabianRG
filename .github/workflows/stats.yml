@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 3 * * *" # Se ejecuta todos los días a las 3am
   workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
-  push:
-    branches:
-      - main
 
 jobs:
   build:
