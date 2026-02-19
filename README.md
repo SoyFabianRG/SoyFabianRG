@@ -28,25 +28,30 @@
 
 <h2 align="center"> :hammer_and_wrench: Tech Stack </h2>
 
-[![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
-[![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en)
+<!-- [![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
+[![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en) -->
+
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
-[![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/web/javascript)
+
+<!-- [![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/web/javascript)
 [![Haskell](https://img.shields.io/badge/haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org)
-[![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
+[![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash) -->
+
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)](https://www.w3schools.com/sql)
 [![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Plotly Dash](https://img.shields.io/badge/plotly_dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://dash.plotly.com/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)](https://www.tidyverse.org)
-[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
+
+<!-- [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html)
 [![CSS3](https://img.shields.io/badge/css3-663399?style=for-the-badge&logo=css&logoColor=white)](https://www.w3.org/Style/CSS)
 [![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
-[![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org)
+[![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org) -->
+
 [![Mathematica](https://img.shields.io/badge/mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)](https://www.wolfram.com/mathematica)
 [![Matlab](https://img.shields.io/badge/matlab-Bf4A06?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![GeoGebra](https://custom-icon-badges.demolab.com/badge/GeoGebra-6557d2?style=for-the-badge&logo=geogebra&logoColor=white)](https://www.geogebra.org)
@@ -55,7 +60,8 @@
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+
+<!-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com) -->
 
 <h2 align="center"> :herb: My Ecosystem </h2>
 
