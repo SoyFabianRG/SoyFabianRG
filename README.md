@@ -8,7 +8,7 @@
 
 - 📚 Currently learning Python and Data Science
 - ☕ Powered by: Coffee, Neovim, and gym sessions
-- ⚡ Fun fact: I lift 120kg squat, 100kg deadlift and 70kg bench press
+- ⚡ Fun fact: I lift 120kg squat, 100kg deadlift, and 70kg bench press
 
 <h2 align="center"> :trophy: Certifications </h2>
 
