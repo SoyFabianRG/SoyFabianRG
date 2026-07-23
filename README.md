@@ -47,6 +47,8 @@
 [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GNU/Linux](https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 
 <!--
 [![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
@@ -61,23 +63,6 @@
 [![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com) 
 -->
-
-<h2 align="center"> :herb: My Ecosystem </h2>
-
-[![GNU/Linux](https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
-[![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![Nushell](https://img.shields.io/badge/nushell-4E9A06?style=for-the-badge&logo=nushell&logoColor=white)](https://www.nushell.sh)
-[![Ghostty](https://img.shields.io/badge/ghostty-3551F3?style=for-the-badge&logo=ghostty&logoColor=white)](https://ghostty.org)
-[![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)](https://brew.sh)
-[![Zellij](https://img.shields.io/badge/zellij-7e9fbe4?style=for-the-badge&logo=zellij&logoColor=white)](https://zellij.dev)
-[![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)](https://starship.rs)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
-[![LazyVim](https://img.shields.io/badge/lazyvim-2E7DE9?style=for-the-badge&logo=lazyvim&logoColor=white)](https://www.lazyvim.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![Google Colaboratory](https://img.shields.io/badge/colaboratory-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
-[![R Studio](https://img.shields.io/badge/r_studio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)](https://posit.co/products/open-source/rstudio)
-[![DataGrip](https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)](https://www.jetbrains.com/datagrip)
 
 <!-- <h2 align="center">:star: Top Projects</h2>
 <table align="center">
