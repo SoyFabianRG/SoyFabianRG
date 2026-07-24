@@ -28,7 +28,7 @@
 
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
-[![SQL](https://img.shields.io/badge/sql-025E8C?style=for-the-badge&logo=database&logoColor=white)](https://www.w3schools.com/sql)
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)](https://www.w3schools.com/sql)
 [![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
 [![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Plotly Dash](https://img.shields.io/badge/plotly_dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://dash.plotly.com/)
@@ -45,6 +45,7 @@
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![GNU/Linux](https://img.shields.io/badge/gnu/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.gnu.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
 
 <!--
 [![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c)
@@ -56,8 +57,7 @@
 [![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
-[![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com) 
+[![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org) 
 -->
 
 <!-- <h2 align="center">:star: Top Projects</h2>
