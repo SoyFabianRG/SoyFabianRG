@@ -28,7 +28,7 @@ jobs:
           card: stats
           options: username=SoyFabianRG&theme=catppuccin_mocha&show_icons=true
           path: stats.svg # Ahora en la raíz de output
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       # 2. Generar la tarjeta de Top Lenguajes
       - name: Generate Top Langs
@@ -37,7 +37,7 @@ jobs:
           card: top-langs
           options: username=SoyFabianRG&theme=catppuccin_mocha&layout=compact&langs_count=10
           path: top-langs.svg # Ahora en la raíz de output
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -45,7 +45,7 @@ jobs:
           card: pin
           options: username=SoyFabianRG&repo=Plantillas-UNAM&show_icons=true&theme=catppuccin_mocha
           path: pin-plantillas-unam.svg # Ahora en la raíz de output
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       # 3. Guardar los cambios en la rama output
       - name: Commit cards
