@@ -21,7 +21,6 @@
 <h2 align="center"> :muscle: Challenges </h2>
 
 [![Codeforces](https://img.shields.io/badge/codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/SoyFabianRG)
-[![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/SoyFabianRG)
 [![Dcoder](https://img.shields.io/badge/dcoder-000000?style=for-the-badge&logo=dcoder&logoColor=white)](https://code.dcoder.tech/profile/soyfabianrg)
 
 <h2 align="center"> :hammer_and_wrench: Tech Stack </h2>
