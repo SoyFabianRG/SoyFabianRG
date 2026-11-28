@@ -70,7 +70,7 @@
     <tr>
         <td colspan="2" align="center">
             <a href="https://github.com/SoyFabianRG">
-                <img height="150px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=SoyFabianRG&theme=catppuccin-mocha"/>
+                <img height="150px" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=SoyFabianRG&theme=carbonfox"/>
             </a>
         </td>
     </tr>
